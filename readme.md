@@ -8,7 +8,7 @@ This repository contains the data and analysis codes used in the paper titled "H
 
 ## Contents
 
-- **Vertebral Counts Table:** [vertebralFormulaOrdered_v2.xlsx](link)  
+- **Vertebral Counts Table:** [vertebralFormulaOrdered_v2.xlsx](vertebralFormulaOrdered_v2.xlsx)  
   This file contains the vertebral counts used in the analysis.
 
 - **Analysis Script:** `runAll_v2.sh`  
