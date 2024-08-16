@@ -1,0 +1,122 @@
+Class,Order,Family,Species,Common name,Taxonomy ID,Cervical,Thoracic,Lumbar,Sacral,Caudal
+Aves,Anseriformes,Anatidae,Plectropterus Gambensis,Spur-winged Goose,658924,15,7,0,16,6
+Aves,Anseriformes,Anatidae,Cereopsis novaehollandiae,Cape Barren Goose,8858,17,8,0,17,6
+Aves,Anseriformes,Anatidae,Branta bernicla,Brant Goose,184712,17,7,0,18,6
+Aves,Anseriformes,Anatidae,Anser cygnoides,Swan Goose,8845,17,6,0,19,6
+Aves,Anseriformes,Anatidae,Coscoroba coscoroba,Coscoroba Swan,8863,20,7,0,19,8
+Aves,Anseriformes,Anatidae,Cygnus atratus,Black Swan,8868,21,8,0,19,8
+Aves,Anseriformes,Anatidae,Cygnus cygnus,Whooper Swan,219595,23,6,0,21,7
+Aves,Anseriformes,Anatidae,Tadorna tadorna,Common Shelduck,75865,16,6,0,15,7
+Aves,Anseriformes,Anatidae,Tadorna ferruginea,Ruddy Shelduck,45639,16,6,0,17,7
+Aves,Anseriformes,Anatidae,Anas acuta,Northern Pintail,28680,16,7,0,16,6
+Aves,Anseriformes,Anatidae,Anas platyrhynchos,Mallard,8839,15,6,0,16,6
+Aves,Anseriformes,Anatidae,Dendrocygna arcuata,Wandering Whistling-Duck,8872,15,6,0,18,6
+Aves,Anseriformes,Anatidae,Mareca strepera,Gadwall,75861,14,7,0,16,6
+Aves,Anseriformes,Anatidae,Melanitta nigra,Common Scoter,198027,14,6,0,16,6
+Aves,Anseriformes,Anatidae,Aythya marila,Greater Scaup,189534,15,6,0,16,6
+Aves,Anseriformes,Anatidae,Bucephala clangula,Common Goldeneye,107022,15,6,0,16,6
+Aves,Anseriformes,Anatidae,Oxyura leucocephala,White-headed Duck,90703,13,6,0,13,7
+Aves,Anseriformes,Anatidae,Biziura lobata,Musk Duck,45648,14,6,0,15,6
+Aves,Anseriformes,Anatidae,Mergellus albellus,Smew,107026,15,6,0,15,6
+Aves,Gaviiformes,Gaviidae,Gavia stellata,Red-throated Loon,37040,11,7,0,16,6
+Aves,Podicipediformes,Podicipedidae,Tachybaptus ruficollis,Little Grebe,100828,16,5,0,13,6
+Aves,Podicipediformes,Podicipedidae,Podiceps cristatus,Great Crested Grebe,345573,19,7,0,17,6
+Aves,Charadriiformes,Alcidae,Alca torda,Razorbill,28689,13,7,0,17,7
+Aves,Charadriiformes,Alcidae,Fratercula arctica,Atlantic Puffin,28701,14,7,0,12,7
+Aves,Sphenisciformes,Spheniscidae,Eudyptula minor,Little Blue Penguin,37083,13,7,0,14,7
+Aves,Sphenisciformes,Spheniscidae,Eudyptes schlegeli,Royal Penguin,57240,12,7,0,15,6
+Aves,Charadriiformes,Alcidae,Uria aalge,Common Murre,13746,13,6,0,12,7
+Aves,Pelecaniformes,Anhingidae,Anhinga novaehollandiae,Australian Darter,9213,17,5,0,10,
+Aves,Pelecaniformes,Pelecanidae,Pelecanus conspicillatus,Australian Pelican,317791,19,5,0,14,7
+Aves,Procellariiformes,Procellariidae,Macronectes giganteus,Antarctic Giant-Petrel,37057,12,8,0,14,7
+Aves,Procellariiformes,Procellariidae,Ardenna grisea,Sooty Shearwater,37052,12,7,0,12,6
+Aves,Procellariiformes,Oceanitidae,Oceanites oceanicus,Wilson's Storm-Petrel,79653,11,6,0,12,6
+Aves,Procellariiformes,Diomedeidae,Diomedea exulans,Snowy Albatross,46550,13,8,0,13,7
+Aves,Charadriiformes,Laridae,Chroicocephalus ridibundus,Black-headed Gull,1192867,14,7,0,12,7
+Aves,Charadriiformes,Laridae,Sterna paradisaea,Arctic Tern,279953,13,6,0,12,6
+Aves,Charadriiformes,Laridae,Rynchops niger,Black Skimmer,227184,13,6,0,12,8
+Aves,Charadriiformes,Scolopacidae,Limosa lapponica,Bar-tailed Godwit,161683,12,7,0,15,6
+Aves,Charadriiformes,Scolopacidae,Tringa nebularia,Common Greenshank,171270,14,8,0,13,7
+Aves,Charadriiformes,Scolopacidae,Scolopax rusticola,Eurasian Woodcock,100826,14,6,0,13,6
+Aves,Charadriiformes,Scolopacidae,Numenius arquata,Eurasian Curlew,31919,14,6,0,14,6
+Aves,Pelecaniformes,Threskiornithidae,Plegadis falcinellus,Glossy Ibis,52788,15,6,0,15,6
+Aves,Pelecaniformes,Threskiornithidae,Bostrychia hagedash,Harada Ibis,1281447,15,6,0,15,6
+Aves,Pelecaniformes,Threskiornithidae,Threskiornis melanocephalus,Black-headed Ibis,425371,16,7,0,15,6
+Aves,Gruiformes,Psophiidae,Psophia viridis,Dark-winged Trumpeter,302536,16,8,0,14,6
+Aves,Cariamiformes,Cariamidae,Cariama cristata,Red-legged Seriema,54380,13,6,0,15,6
+Aves,Ciconiiformes,Ciconiidae,Ciconia ciconia,White Stork,8928,17,6,0,13,7
+Aves,Ciconiiformes,Ciconiidae,Leptoptilos dubius,Greater Adjutant,1940340,15,6,0,14,6
+Aves,Pelecaniformes,Threskiornithidae,Platalea leucorodia,Eurasian Spoonbill,257867,16,6,0,14,6
+Aves,Phoenicopteriformes,Phoenicopteridae,Phoenicopterus ruber ruber,American Flamingo,9218,16,6,0,13,7
+Aves,Charadriiformes,Jacanidae,Jacana spinosa,Northern Jacana,118786,15,7,0,12,7
+Aves,Gruiformes,Rallidae,Rallus aquaticus,Water Rail,54496,15,8,0,,6
+Aves,Gruiformes,Aramidae,Aramus guarauna,Limpkin,54356,15,7,0,,7
+Aves,Gruiformes,Rallidae,Gallinula chloropus,Common Moorhen,9123,14,9,0,14,7
+Aves,Gruiformes,Rallidae,Fulica atra,Eurasian Coot,9121,14,8,0,15,6
+Aves,Gruiformes,Otididae,Chlamydotis undulata undulata,Houbara Bustard,187383,12,8,0,13,6
+Aves,Tinamiformes,Tinamidae,Tinamus major,Great Tinamou,30468,,,0,14,
+Aves,Charadriiformes,Chionididae,Chionis albus,Snowy Sheathbill,240203,12,7,0,15,6
+Aves,Ciconiiformes,Thinocoridae,Attagis gayi,Rufous-bellied Seedsnipe,227233,13,7,0,13,6
+Aves,Ciconiiformes,Thinocoridae,Thinocorus rumicivorus,Least Seedsnipe,391620,12,,0,13,6
+Aves,Charadriiformes,Haematopodidae,Haematopus ostralegus,Eurasian Oystercatcher,31908,13,6,0,18,7
+Aves,Charadriiformes,Burhinidae,Burhinus oedicnemus,Eurasian Thick-knee,85105,13,6,0,12,6
+Aves,Charadriiformes,Glareolidae,Glareola pratincola,Collared Pratincole,43316,12,6,0,11,8
+Aves,Charadriiformes,Charadriidae,Vanellus vanellus,Northern Lapwing,100859,11,8,0,12,6
+Aves,Charadriiformes,Charadriidae,Pluvialis squatarola,Grey Plover,171273,12,7,0,13,8
+Aves,Charadriiformes,Charadriidae,Vanellus spinosus,Spur-winged Lapwing,8909,14,6,0,12,6
+Aves,Charadriiformes,Charadriidae,Pluvialis apricaria,European Golden Plover,670352,14,6,0,13,8
+Aves,Charadriiformes,Scolopacidae,Arenaria interpres,Ruddy Turnstone,54971,10,6,0,12,7
+Aves,Charadriiformes,Scolopacidae,Calidris canutus,Red Knot,227173,13,6,0,12,7
+Aves,Charadriiformes,Scolopacidae,Calidris pugnax,Ruff,198806,14,8,0,12,8
+Aves,Struthioniformes,Struthionidae,Struthio camelus,Ostrich,8801,16,7,0,18,6
+Aves,Casuariiformes,Dromaiidae,Dromaius novaehollandiae,Emu,8790,20,8,0,15,6
+Aves,Casuariiformes,Casuariidae,Casuarius casuarius,Southern Cassowary,8787,15,9,0,,6
+Aves,Apterygiformes,Apterygidae,Apteryx Australis,Southern Brown Kiwi,8822,18,6,0,15,7
+Aves,Ciconiiformes,Pteroclidae,Pterocles orientalis,Black-bellied Sandgrouse,227169,13,6,0,12,6
+Aves,Pterocliformes,Pteroclidae,Pterocles quadricinctus,Four-banded Sandgrouse,0,13,7,0,13,6
+Aves,Galliformes,Phasianidae,Tetrao urogallus,Western Capercaillie,100830,14,7,0,18,6
+Aves,Galliformes,Phasianidae,Lagopus scotica,Red Grouse,359986,14,6,0,13,6
+Aves,Galliformes,Phasianidae,Lagopus lagopus,Willow Ptarmigan,52650,14,6,0,13,6
+Aves,Galliformes,Phasianidae,Lyrurus tetrix tetrix,Black Grouse,162951,13,6,0,16,6
+Aves,Galliformes,Phasianidae,Lagopus muta,Rock Ptarmigan,64668,12,6,0,15,6
+Aves,Galliformes,Phasianidae,Perdix perdix,Grey Partridge,9052,12,6,0,13,6
+Aves,Galliformes,Phasianidae,Pternistis capensis,Cape Francolin,57755,15,7,0,14,6
+Aves,Galliformes,Odontophoridae,Callipepla californica,California Quail,67771,12,6,0,13,6
+Aves,Galliformes,Phasianidae,Pavo muticus,Green Peafowl,9050,13,6,0,13,5
+Aves,Galliformes,Phasianidae,Phasianus colchicus,Common Pheasant,9054,12,6,0,13,6
+Aves,Galliformes,Phasianidae,Lophura nycthemera,Silver Pheasant,9046,14,5,0,13,5
+Aves,Galliformes,Phasianidae,Chrysolophus pictus,Golden Pheasant,9089,13,7,0,15,5
+Aves,Galliformes,Megapodiidae,Megapodius,Scrubfowl,8978,13,8,0,14,5
+Aves,Galliformes,Cracidae,Penelope montagnii,Andean Guan,301609,14,7,0,14,6
+Aves,Galliformes,Phasianidae,Argusianus argus,Great Argus,9081,12,8,0,12,5
+Aves,Galliformes,Cracidae,Crax rubra,Great Curassow,84990,15,7,0,17,5
+Aves,Columbiformes,Columbidae,Goura cristata,Western Crowned-Pigeon,115654,13,6,0,13,6
+Aves,Columbiformes,Columbidae,Columbina passerina,Common Ground-Dove,111974,12,6,0,,
+Aves,Columbiformes,Columbidae,Columba palumbus,Common Wood-Pigeon,8934,13,6,0,12,7
+Aves,Columbiformes,Columbidae,Ptilinopus magnificus,Wompoo Fruit-Dove,796400,12,6,0,13,6
+Aves,Columbiformes,Columbidae,Ducula badia,Mountain Imperial-Pigeon,1463953,12,6,0,12,6
+Aves,Columbiformes,Columbidae,Ptilinopus melanospilus,Black-naped Fruit-Dove,187138,12,6,0,12,6
+Aves,Columbiformes,Columbidae,Treron aromaticus,Buru Green-pigeon,2953461,11,5,0,12,
+Aves,Passeriformes,Passerellidae,Arremon semitorquatus,Half-collared Sparrow,1109025,11,7,0,9,6
+Aves,Passeriformes,Thraupidae,Parkerthraustes humeralis,Yellow-shouldered Grosbeak,460195,12,6,0,9,6
+Aves,Passeriformes,Thraupidae,Saltator coerulescens,Bluish-grey Saltator,84783,11,6,0,9,6
+Aves,Passeriformes,Thraupidae,Stephanophorus diadematus,Diademed Tanager,548515,11,6,0,9,
+Aves,Passeriformes,Thraupidae,Neothraupis fasciata,White-banded Tanager,62226,12,6,0,10,6
+Aves,Passeriformes,Fringillidae,Orthogonys chloricterus,Olive-green Tanager,1271578,12,7,0,10,6
+Aves,Passeriformes,Thraupidae,Thraupis ornata,Golden-chevroned Tanager,548519,11,6,0,9,6
+Aves,Passeriformes,Thraupidae,Trichothraupis melanops,Black-goggled Tanager,555363,12,6,0,9,6
+Aves,Passeriformes,Thraupidae,Hemithraupis flavicollis,Yellow-backed Tanager,62205,11,6,0,9,6
+Aves,Passeriformes,Thraupidae,Tangara seledon,Green-headed Tanager,221979,11,6,0,9,6
+Aves,Passeriformes,Fringillidae,Chlorophonia cyanocephala,Golden-rumped Euphonia,555251,12,6,0,9,6
+Aves,Passeriformes,Corvidae,Corvus corax,Common Raven,56781,12,7,0,10,8
+Aves,Passeriformes,Corvidae,Corvus corone,Carrion Crow,30422,12,6,0,9,8
+Aves,Passeriformes,Corvidae,Corvus frugilegus,Rook,75140,11,6,0,9,7
+Aves,Passeriformes,Corvidae,Coloeus monedula,Eurasian Jackdaw,30423,12,6,0,10,7
+Aves,Passeriformes,Corvidae,Pica pica,Eurasian Magpie,34924,12,6,0,7,6
+Aves,Passeriformes,Corvidae,Pyrrhocorax graculus,Yellow-billed Chough,56789,12,6,0,10,6
+Aves,Passeriformes,Corvidae,Nucifraga caryocatactes,Spotted Nutcracker,56786,11,7,0,9,6
+Aves,Passeriformes,Corvidae,Cissa thalassina,Short-tailed Magpie,357740,12,6,0,9,6
+Aves,Passeriformes,Corvidae,Crypsirina cucullata,Hooded Treepie,0,12,7,0,10,8
+Aves,Passeriformes,Corvidae,Platylophus galericulatus,Crested Jay,205797,12,7,0,11,
+Aves,Passeriformes,Artamidae,Gymnorhina tibicen,Australian Magpie,9132,12,6,0,9,7
+Aves,Passeriformes,Callaeidae,Heteralocha acutirostris,Huia,192211,13,6,0,11,7

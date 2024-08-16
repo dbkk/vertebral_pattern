@@ -1,0 +1,17 @@
+numThresh 20
+constraintRatio 10
+constraintRatioHumanReadable 10
+constraintThresholdLocal 0.1
+plasticityThresholdLocal 0.7
+spanHumanReadable 1
+plasticityRatio 10
+constraintName vertebral
+fillNaNs True
+maxPCA 20
+subgroup Class
+featureList
+Cervical
+Thoracic
+Lumbar
+Sacral
+Caudal

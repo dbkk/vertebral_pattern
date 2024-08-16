@@ -1,0 +1,3 @@
+Cervical,Thoracic,Lumbar,Sacral,Caudal,std,outside_std,totalVar,plasticityRatio,constraintThresholdLocal,span
+0,-1,0,0,0,84.44600629039032,15.640497063279456,7809.558648955178,10,0.1,1
+0,1,0,0,0,84.44600629039032,15.640497063279456,7809.558648955178,10,0.1,1

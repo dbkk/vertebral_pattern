@@ -1,0 +1,6 @@
+Cervical,Thoracic,Lumbar,Sacral,Caudal,varianceRatio
+1,0,0,0,0,0
+0,1,0,0,0,4.151581921e-05
+0,0,1,0,0,0
+0,0,0,1,0,0
+0,0,0,0,1,0.0002511357665

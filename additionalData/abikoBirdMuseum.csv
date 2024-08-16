@@ -1,0 +1,82 @@
+Class,Order,Family,Species,Common name,Taxonomy ID,Cervical,Thoracic,Lumbar,Sacral,Caudal,Total,SacralRib,Annotation 1,Annotation 2,Annotation 3,Reference
+Aves,Accipitriformes,Accipitridae,Accipiter gentilis,Northern Goshawk,8957,14,6,0,12.0,8,40.0,2,1 free rib,2 sacral ribs,,Abiko bird museum ACMB-04903
+Aves,Passeriformes,Alaudidae,Alauda arvensis,Eurasian skylark,88112,11,5,0,9.0,6,31.0,2,1 free rib,2 sacral ribs,,Abiko bird museum ACMB-04982
+Aves,Sphenisciformes,Spheniscidae,Spheniscus humboldti,Humboldt's penguin,9240,13,8,0,13.0,9,43.0,1,2 free rib,1 sacral ribs,,Abiko bird museum ACMB-00610
+Aves,Anseriformes,Anatidae,Anas platyrhynchos,Mallard,8839,15,6,0,16.0,7,44.0,3,1 free rib,3 sacral ribs,,Abiko bird museum - from Chiba 2003.12.23
+Aves,Anseriformes,Anatidae,Anas zonorhyncha,Eastern Spot-billed Duck,75864,15,6,0,15.0,6,42.0,3,1 free rib,3 sacral ribs,,Abiko bird museum ACMB-03794
+Aves,Anseriformes,Anatidae,Cygnus olor,Mute Swan,8869,23,7,0,20.0,9,59.0,3,2 free rib,4 sacral ribs,,Abiko bird museum ACMB-01502
+Aves,Charadriiformes,Scolopacidae,Gallinago gallinago,Common Snipe,107377,13,7,0,14.0,6,40.0,1,2 free rib,1 sacral ribs,,Abiko bird museum ACMB-03858
+Aves,Accipitriformes,Accipitridae,Haliaeetus pelagicus,Steller's Sea Eagle,52647,13,6,0,15.0,8,42.0,2,1 free rib,2 sacral ribs,,Abiko bird museum ACMB-02297
+Aves,Passeriformes,Hirundinidae,Hirundo rustica,Barn Swallow,1758,12,6,0,10.0,6,34.0,1,1 free rib,1 sacral ribs,,Abiko bird museum ACMB-02882
+Aves,Psittaciformes,Psittaculidae,Melopsittacus undulatus,Budgerigar,13146,11,5,0,12.0,6,34.0,2,2 free rib,2 sacral ribs,,Abiko bird museum 88-0557
+Aves,Passeriformes,Motacillidae,Motacilla alba alba,White or Black-backed Wagtail,1094192,12,5,0,11.0,6,34.0,2,1 free rib,2 sacral ribs,technically this is subspecies lugens but I am matching it with the subspecies alba because we have the genome and they apparently just differ by color see https://avibase.ca/400E032C,Abiko bird museum ACMB-01167
+Aves,Anseriformes,Anatidae,Nettapus auritus,African Pygmy Goose,658922,15,6,0,15.0,7,43.0,2,1 free rib,2 sacral ribs,,Abiko bird museum ACMB-02654
+Aves,Otidiformes,Otididae,Otis tarda,Great Bustard,73107,15,6,0,15.0,7,43.0,1,1 free rib,1 sacral ribs,,Abiko bird museum ACMB-00628
+Aves,Strigiformes,Strigidae,Otus sunia,Oriental Scops Owl,257818,12,5,0,11.0,6,34.0,2,1 free rib,2 sacral ribs,,Abiko bird museum ACMB-01445
+Aves,Galliformes,Phasianidae,Phasianus colchicus,Common Pheasant,9054,14,5,0,15.0,6,40.0,2,2 free rib,2 sacral ribs,,Abiko bird museum ACMB-03795
+Aves,Charadriiformes,Laridae,Sterna hirundo,Common Tern,108405,13,7,0,12.0,8,40.0,1,2 free rib,1 sacral ribs,,Abiko bird museum 2020-026-001
+Aves,Bucerotiformes,Upupidae,Upupa epops,Eurasian hoopoe,57439,12,5,0,10.0,6,33.0,2,2 free rib,2 sacral ribs,,Abiko bird museum ACMB-00622
+Aves,Galliformes,Phasianidae,Coturnix japonica,Japanese quail,93934,13,6,0,12.0,7,38.0,1,1 free rib,1 sacral ribs,,Abiko bird museum 2020-040-001
+Aves,Passeriformes,Paridae,Parus major,Great Tit,9157,11,6,0,11.0,6,34.0,1,1 free rib,1 sacral ribs,,Abiko bird museum ACMB-02077
+Aves,Charadriiformes,Scolopacidae,Scolopax rusticola,Eurasian Woodcock,100826,13,6,0,10.0,9,38.0,2,1 free rib,2 sacral ribs,,Abiko bird museum ACMB-04374
+Aves,Charadriiformes,Alcidae,Uria aalge,Common Murre,13746,14,8,0,13.0,9,44.0,2,1 free rib,2 sacral ribs,,Abiko bird museum ACMB-03217
+Aves,Falconiformes,Falconidae,Falco peregrinus,Peregrine falcon,8954,12,7,0,11.0,8,38.0,1,second visit,2 false ribs,,Abiko bird museum ACMB-04355
+Aves,Accipitriformes,Accipitridae,Haliaeetus albicilla,White-tailed eagle,8969,13,6,0,13.0,8,40.0,2,second visit,1 false rib,,Abiko bird museum ACMB-02419
+Aves,Cuculiformes,Cuculidae,Cuculus canorus,Common cuckoo,55661,12,6,0,10.0,6,34.0,1,second visit,2 false ribs,,Abiko bird museum ACMB-01561
+Aves,Gaviiformes,Gaviidae,Gavia stellata,Red-throated loon,37040,12,6,0,12.0,6,36.0,3,second visit,1 false rib,,Abiko bird museum ACMB-05431
+Aves,Gruiformes,Gruidae,Grus japonensis,Japanese crane,30415,18,7,0,17.0,8,50.0,2,second visit,1 false rib,,Abiko bird museum ACMB-01404
+Aves,Gruiformes,Gruidae,Grus vipio,White-naped crane,2717088,18,6,0,17.0,7,48.0,2,second visit,1 false rib,,Abiko bird museum ACMB-03208
+Aves,Falconiformes,Falconidae,Falco tinnunculus,Common kestrel,100819,13,6,0,12.0,8,39.0,1,second visit,1 false rib,,Abiko bird museum ACMB-01115
+Aves,Falconiformes,Falconidae,Falco subbuteo,Eurasian hobby,344233,13,7,0,12.0,8,40.0,1,second visit,1 false rib,,Abiko bird museum ACMB-04210
+Aves,Strigiformes,Strigidae,Ninox scutulata,Brown hawk-owl,126857,12,6,0,11.0,7,36.0,1,second visit,1 false rib,,Abiko bird museum ACMB-00161
+Aves,Strigiformes,Strigidae,Strix uralensis,Ural owl,36305,13,6,0,13.0,7,39.0,1,second visit,1 false rib,,Abiko bird museum ACMB-00390
+Aves,Strigiformes,Strigidae,Asio flammeus,Short-eared owl,56267,12,6,0,12.0,8,38.0,1,second visit,1 false rib,,Abiko bird museum ACMB-00873
+Aves,Strigiformes,Strigidae,Otus sunia,Oriental scops owl,257818,12,6,0,11.0,7,36.0,1,second visit,1 false rib,,Abiko bird museum ACMB-01445
+Aves,Strigiformes,Strigidae,Otus bakkamoena,Indian scops owl,126859,12,6,0,12.0,7,37.0,1,second visit,1 false rib,,Abiko bird museum ACMB-03798
+Aves,Strigiformes,Strigidae,Bubo scandiaca,Snowy owl,371907,13,6,0,13.0,6,38.0,1,second visit,1 false rib,Nyctea scandiaca homotypic synonym,Abiko bird museum ACMB-05126
+Aves,Suliformes,Sulidae,Sula leucogaster,Brown booby,57661,17,5,0,14.0,8,44.0,2,second visit,1 false rib,,Abiko bird museum ACMB-02140
+Aves,Suliformes,Phalacrocoracidae,Phalacrocorax carbo,Common cormorant,9209,18,5,0,17.0,6,46.0,2,second visit,2 false ribs,,Abiko bird museum ACMB-03205
+Aves,Gruiformes,Gruidae,Anthropoides virgo,Demoiselle crane,9111,18,6,0,17.0,6,47.0,3,second visit,2 false ribs,,Abiko bird museum ACMB-00625
+Aves,Anseriformes,Anatidae,Anas crecca,Common teal,75839,14,6,0,14.0,7,41.0,3,second visit,1 false rib,,Abiko bird museum ACMB-00259
+Aves,Gruiformes,Rallidae,Amaurornis phoenicurus,White-breasted waterhen,261959,12,8,0,11.0,7,38.0,2,second visit,2 false ribs,,Abiko bird museum ACMB-01491
+Aves,Anseriformes,Anatidae,Aix galericulata,Mandarin duck,8832,15,6,0,16.0,7,44.0,3,second visit,1 false rib,,Abiko bird museum ACMB-00543
+Aves,Anseriformes,Anatidae,Cygnus bewickii,Bewick's swan,541010,21,6,0,16.0,8,51.0,4,second visit,1 false rib,,Abiko bird museum ACMB-00795
+Aves,Anseriformes,Anatidae,Anas acuta,Northern pintail,28680,17,6,0,16.0,7,46.0,3,second visit,1 false rib,,Abiko bird museum ACMB-00830
+Aves,Anseriformes,Anatidae,Anas penelope,Eurasian wigeon,8838,15,6,0,15.0,7,43.0,3,second visit,1 false rib,,Abiko bird museum ACMB-00872
+Aves,Anseriformes,Anatidae,Anser fabalis,Taiga bean goose,132587,17,6,0,15.0,7,45.0,3,second visit,1 false rib,,Abiko bird museum ACMB-01229
+Aves,Anseriformes,Anatidae,Anas poecilorhyncha,Indian spot-billed duck,75854,15,6,0,16.0,7,44.0,3,second visit,1 false rib,,Abiko bird museum ACMB-03794
+Aves,Anseriformes,Anatidae,Mergus merganser,Common merganser,8880,15,6,0,15.0,7,43.0,3,second visit,2 false ribs,,Abiko bird museum ACMB-02456
+Aves,Anseriformes,Anatidae,Dendrocygna javanica,Lesser whistling duck,60182,15,5,0,15.0,6,41.0,3,second visit,1 false rib,,Abiko bird museum ACMB-05260
+Aves,Podicipediformes,Podicipedidae,Podiceps cristatus,Great crested grebe,345573,19,6,0,17.0,8,50.0,3,second visit,2 false ribs,,Abiko bird museum ACMB-05855
+Aves,Ciconiiformes,Ciconiidae,Ciconia ciconia,White stork,8928,16,5,0,16.0,6,43.0,2,second visit,1 false rib,,Abiko bird museum ACMB-04194
+Aves,Pelecaniformes,Threskiornithidae,Platalea leucorodia,Eurasian spoonbill,257867,16,6,0,15.0,7,43.0,1,second visit,1 false rib,,Abiko bird museum ACMB-05534
+Aves,Podicipediformes,Podicipedidae,Tachybaptus ruficollis,Little grebe,100828,17,6,0,17.0,5,45.0,2,second visit,1 false rib,difficult to determine last sacral so used typical size for last few,Abiko bird museum ACMB-03206
+Aves,Anseriformes,Anatidae,Aythya marila,Greater scaup,189534,15,6,0,16.0,7,44.0,3,second visit,1 false rib,,Abiko bird museum ACMB-01773
+Aves,Gruiformes,Rallidae,Gallinula chloropus,Common moorhen,9123,12,9,0,12.0,8,41.0,1,second visit,2 false ribs,,Abiko bird museum ACMB-00513
+Aves,Gruiformes,Rallidae,Fulica atra,Eurasian coot,9121,13,8,0,12.0,10,43.0,1,second visit,2 false ribs,,Abiko bird museum ACMB-00705
+Aves,Charadriiformes,Scolopacidae,Calidris tenuirostris,Great knot,171266,13,6,0,14.0,8,41.0,2,second visit,1 false rib,,Abiko bird museum ACMB-04372
+Aves,Passeriformes,Corvidae,Corvus corone,Carrion crow,30422,12,7,0,11.0,7,37.0,1,second visit,2 false ribs,,Abiko bird museum ACMB-02794
+Aves,Charadriiformes,Charadriidae,Vanellus vanellus,Northern lapwing,100859,13,6,0,13.0,8,40.0,1,second visit,2 false ribs,,Abiko bird museum ACMB-00997
+Aves,Passeriformes,Corvidae,Corvus frugilegus,Rook,75140,12,6,0,10.0,7,35.0,2,second visit,2 false ribs,,Abiko bird museum ACMB-03863
+Aves,Gruiformes,Rallidae,Hypotaenidia okinawae,Okinawa rail,2861861,13,9,0,15.0,8,43.0,1,second visit,2 false ribs,basionym Rallus okinawae,Abiko bird museum ACMB-01412
+Aves,Charadriiformes,Scolopacidae,Numenius madagascariensis,Far Eastern curlew,171268,13,7,0,14.0,9,43.0,2,second visit,2 false ribs,,Abiko bird museum ACMB-05085
+Aves,Charadriiformes,Scolopacidae,Numenius phaeopus,Eurasian whimbrel,161676,13,6,0,13.0,8,40.0,1,second visit,2 false ribs,,Abiko bird museum ACMB-05559
+Aves,Charadriiformes,Charadriidae,Pluvialis dominica,American golden-plover,240205,12,7,0,13.0,8,40.0,2,second visit,2 false ribs,,Abiko bird museum ACMB-00542
+Aves,Charadriiformes,Scolopacidae,Tringa totanus,Common redshank,171271,13,6,0,13.0,7,39.0,2,second visit,1 false rib,,Abiko bird museum ACMB-02816
+Aves,Charadriiformes,Scolopacidae,Tringa ochropus,Green sandpiper,261960,12,8,0,12.0,8,40.0,1,second visit,2 false ribs,,Abiko bird museum ACMB-04186
+Aves,Columbiformes,Columbidae,Columba livia,Rock pigeon,8932,11,6,0,13.0,6,36.0,1,second visit,1 false rib,,Abiko bird museum ACMB-01468
+Aves,Columbiformes,Columbidae,Columba janthina,Japanese wood pigeon,337444,12,6,0,14.0,6,38.0,1,second visit,2 false ribs,,Abiko bird museum ACMB-01350
+Aves,Procellariiformes,Diomedeidae,Phoebastria immutabilis,Laysan albatross,54020,14,7,0,12.0,8,41.0,1,second visit,1 false rib,basionym Diomedea immutabilis,Abiko bird museum ACMB-03828
+Aves,Passeriformes,Corvidae,Corvus macrorhynchos,Large-billed crow,36249,12,7,0,11.0,7,37.0,1,second visit,2 false ribs,,Abiko bird museum ACMB-00396
+Aves,Apodiformes,Trochilidae,Lesbia victoriae,Black-tailed trainbearer,304655,11,6,0,,6,,1,second visit,1 false rib,sacral too small and blocked to see,Abiko bird museum ACMB-02148
+Aves,Piciformes,Picidae,Jynx torquilla,Eurasian wryneck,189526,11,7,0,12.0,8,38.0,1,second visit,2 false ribs,,Abiko bird museum ACMB-00232
+Aves,Piciformes,Picidae,Yungipicus kizuki,Pygmy woodpecker,36303,12,6,0,11.0,7,36.0,1,second visit,1 false rib,homotypic synonym Picoides kizuki,Abiko bird museum ACMB-01444
+Aves,Piciformes,Picidae,Picus awokera,Japanese green woodpecker,187860,12,7,0,11.0,7,37.0,1,second visit,2 false ribs,,Abiko bird museum ACMB-03212
+Aves,Piciformes,Picidae,Dendrocopos major,Great spotted woodpecker,137523,12,6,0,10.0,7,35.0,1,second visit,1 false rib,basionym Picoides major,Abiko bird museum ACMB-04421
+Aves,Tinamiformes,Tinamidae,Eudromia elegans,Elegant crested-tinamou,8805,14,6,0,16.0,6,42.0,1,second visit,2 false ribs,,Abiko bird museum ACMB-05263
+Aves,Caprimulgiformes,Caprimulgidae,Caprimulgus indicus,Jungle nightjar,433629,11,5,0,10.0,6,32.0,1,second visit,2 false ribs,,Abiko bird museum ACMB-00494
+Aves,Casuariiformes,Dromaiidae,Dromaius novaehollandiae,Emu,8790,19,7,0,21.0,9,56.0,1,second visit,2 false ribs,,Abiko bird museum UNKNOWN
+Aves,Gruiformes,Gruidae,Grus carunculatus,Wattled crane,9118,17,7,0,17.0,8,49.0,3,second visit,2 false ribs,homotypic synonym Bugeranus carunculatus,Abiko bird museum UNKNOWN
+Aves,Pelecaniformes,Balaenicipitidae,Balaeniceps rex,Shoebill,33584,15,5,0,12.0,6,38.0,1,second visit,1 false rib,,Abiko bird museum ACMB-03515
+Aves,Phoenicopteriformes,Phoenicopteridae,Phoenicopterus ruber,American flamingo,9217,18,5,0,13.0,8,44.0,1,second visit,0 false ribs,,Abiko bird museum UNKNOWN
+Aves,Pelecaniformes,Pelecanidae,Pelecanus onocrotalus,Great white pelican,36301,16,4,0,14.0,7,41.0,2,second visit,1 false rib,,Abiko bird museum ACMB-02722

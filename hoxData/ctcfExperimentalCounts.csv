@@ -1,0 +1,17 @@
+organism,cluster,hoxLen,peakNum
+human,a,107098,7
+human,b,200224,12
+human,c,117199,7
+human,d,103420,7
+mouse,a,105518,4
+mouse,b,173938,15
+mouse,c,115715,7
+mouse,d,96917,5
+chicken,a,106167,6
+chicken,b,128900,4
+chicken,c,77997,3
+chicken,d,74152,6
+frog,a,93899,4
+frog,b,107176,8
+frog,c,280364,13
+frog,d,165785,10

@@ -1,0 +1,156 @@
+Vertebrae,Transition,Gene,Organism,Species,Note 1,Note 2
+C.6,C.T,C.5,mouse,Mus musculus,next to last cervical,anterior gene expression
+T.1,C.T,C.6,mouse,Mus musculus,first thoracic,anterior gene expression
+C.2,,B.4,mouse,Mus musculus,,anterior gene expression
+C.3,,A.4,mouse,Mus musculus,,anterior gene expression
+C.3,,C.4,mouse,Mus musculus,,anterior gene expression
+T.4,,B.7,mouse,Mus musculus,,anterior gene expression
+T.6,,C.8,mouse,Mus musculus,,anterior gene expression
+T.7,,D.8,mouse,Mus musculus,,anterior gene expression
+T.12,T.L,A.9,mouse,Mus musculus,,anterior gene expression
+T.12,T.L,A.9,mouse,Mus musculus,,anterior gene expression
+L.5,L.S,D.9,mouse,Mus musculus,second to last lumbar,anterior gene expression
+S.1,L.S,D.10,mouse,Mus musculus,first sacral,anterior gene expression
+S.4,S.Ca,D.11,mouse,Mus musculus,last sacral,anterior gene expression
+Ca.1,S.Ca,D.12,mouse,Mus musculus,first caudal,anterior gene expression
+C.13,C.T,C.5,chicken,Gallus gallus,next to last cervical,anterior gene expression
+T.1,C.T,C.6,chicken,Gallus gallus,first dorsal,anterior gene expression
+C.3,,B.4,chicken,Gallus gallus,,anterior gene expression
+C.3,,D.4,chicken,Gallus gallus,,anterior gene expression
+C.6,,A.4,chicken,Gallus gallus,,anterior gene expression
+C.6,,C.4,chicken,Gallus gallus,,anterior gene expression
+T.5,,C.8,chicken,Gallus gallus,,anterior gene expression
+T.7,T.S,A.9,chicken,Gallus gallus,last dorsal; in our system there is no lumbar but Burke has 4 chicken lumbar so I include them as sacral,anterior gene expression
+T.7,T.S,B.9,chicken,Gallus gallus,last dorsal; in our system there is no lumbar but Burke has 4 chicken lumbar so I include them as sacral,anterior gene expression
+T.7,T.S,C.9,chicken,Gallus gallus,last dorsal; in our system there is no lumbar but Burke has 4 chicken lumbar so I include them as sacral,anterior gene expression
+S.4,,A.10,chicken,Gallus gallus,,anterior gene expression
+S.4,,D.9,chicken,Gallus gallus,,anterior gene expression
+S.5,,C.10,chicken,Gallus gallus,,anterior gene expression
+S.5,,D.10,chicken,Gallus gallus,,anterior gene expression
+S.9,,A.11,chicken,Gallus gallus,,anterior gene expression
+S.12,S.Ca,C.11,chicken,Gallus gallus,second to last sacral,anterior gene expression
+Ca.1,S.Ca,D.11,chicken,Gallus gallus,first caudal,anterior gene expression
+Ca.2,,D.12,chicken,Gallus gallus,,anterior gene expression
+Ca.3,,A.13,chicken,Gallus gallus,,anterior gene expression
+Ca.3,,D.13,chicken,Gallus gallus,,anterior gene expression
+C.2,,B.5,crocodile/alligator,Crocodylus niloticus and Alligator mississippiensis,,anterior gene expression
+C.3,,B.4,crocodile/alligator,Crocodylus niloticus and Alligator mississippiensis,,anterior gene expression
+C.3,,D.4,crocodile/alligator,Crocodylus niloticus and Alligator mississippiensis,,anterior gene expression
+C.5,,A.4,crocodile/alligator,Crocodylus niloticus and Alligator mississippiensis,,anterior gene expression
+C.5,,C.4,crocodile/alligator,Crocodylus niloticus and Alligator mississippiensis,,anterior gene expression
+C.8,C.T,C.5,crocodile/alligator,Crocodylus niloticus and Alligator mississippiensis,second to last cervical,anterior gene expression
+C.9,C.T,A.5,crocodile/alligator,Crocodylus niloticus and Alligator mississippiensis,last cervical,anterior gene expression
+C.1,,A.3,corn snake,Pantherophis guttatus,,anterior gene expression
+C.2,,B.4,corn snake,Pantherophis guttatus,,anterior gene expression
+C.3,C.T,B.6,corn snake,Pantherophis guttatus,last cervical,anterior gene expression
+T.1,C.T,A.6,corn snake,Pantherophis guttatus,first thoracic,anterior gene expression
+T.3,,C.5,corn snake,Pantherophis guttatus,,anterior gene expression
+T.3,,B.7,corn snake,Pantherophis guttatus,,anterior gene expression
+T.4,,B.8,corn snake,Pantherophis guttatus,,anterior gene expression
+T.8,,C.6,corn snake,Pantherophis guttatus,,anterior gene expression
+T.14,,B.9,corn snake,Pantherophis guttatus,,anterior gene expression
+T.29,,A.7,corn snake,Pantherophis guttatus,,anterior gene expression
+T.30,,C.8,corn snake,Pantherophis guttatus,,anterior gene expression
+T.197,,C.10,corn snake,Pantherophis guttatus,,anterior gene expression
+Ca.1,S.Ca,C.13,corn snake,Pantherophis guttatus,,anterior gene expression
+T.2,C.T,C.5,lizard,Pogona vitticeps,second thoracic,anterior gene expression
+T.3,,C.6,lizard,Pogona vitticeps,first arm vertebrae,anterior gene expression
+C.3,,B.6,lizard,Pogona vitticeps,,anterior gene expression
+T.2,C.T,B.8,lizard,Pogona vitticeps,second thoracic,anterior gene expression
+T.1,C.T,A.6,lizard,Anolis carolinensis,first thoracic,anterior gene expression
+T.2,C.T,C.5,caecilian,Ichtyophis kohtaoensis,second thoracic,anterior gene expression
+T.2,C.T,A.6,caecilian,Ichtyophis kohtaoensis,second thoracic,anterior gene expression
+T.4,,C.6,caecilian,Ichtyophis kohtaoensis,,anterior gene expression
+T.20,,C.8,caecilian,Ichtyophis kohtaoensis,,anterior gene expression
+T.65,,C.10,caecilian,Ichtyophis kohtaoensis,,anterior gene expression
+Ca.1,S.Ca,C.13,caecilian,Ichtyophis kohtaoensis,first caudal?,anterior gene expression
+C.1,,B.5,turtle,Pelodiscus sinensis,,anterior gene expression
+C.2,,A.5,turtle,Pelodiscus sinensis,,anterior gene expression
+C.6,,A.7,turtle,Pelodiscus sinensis,,anterior gene expression
+T.1,C.T,C.6,turtle,Pelodiscus sinensis,first thoracic,anterior gene expression
+T.3,,C.8,turtle,Pelodiscus sinensis,,anterior gene expression
+C.2,,A.4,mouse,Mus musculus,,mutations
+C.3,,A.4,mouse,Mus musculus,,mutations
+C.4,,A.4,mouse,Mus musculus,,mutations
+C.5,,A.4,mouse,Mus musculus,,mutations
+C.2,,B.4,mouse,Mus musculus,,mutations
+C.3,,B.4,mouse,Mus musculus,,mutations
+C.4,,B.4,mouse,Mus musculus,,mutations
+C.5,,B.4,mouse,Mus musculus,,mutations
+C.2,,D.4,mouse,Mus musculus,,mutations
+C.3,,D.4,mouse,Mus musculus,,mutations
+C.4,,D.4,mouse,Mus musculus,,mutations
+C.5,,D.4,mouse,Mus musculus,,mutations
+C.7,C.T,C.4,mouse,Mus musculus,,mutations
+T.3,,C.4,mouse,Mus musculus,,mutations
+T.8,,C.4,mouse,Mus musculus,,mutations
+C.7,C.T,D.4,mouse,Mus musculus,,mutations
+C.7,,A.5,mouse,Mus musculus,,mutations
+C.7,,B.5,mouse,Mus musculus,,mutations
+C.7,,C.5,mouse,Mus musculus,,mutations
+C.7,,D.5,mouse,Mus musculus,,mutations
+C.3,,A.5,mouse,Mus musculus,,mutations
+C.4,,A.5,mouse,Mus musculus,,mutations
+C.5,,A.5,mouse,Mus musculus,,mutations
+C.6,,A.5,mouse,Mus musculus,,mutations
+C.7,C.T,A.5,mouse,Mus musculus,,mutations
+T.1,C.T,A.5,mouse,Mus musculus,,mutations
+T.2,C.T,A.5,mouse,Mus musculus,,mutations
+C.3,,B.5,mouse,Mus musculus,,mutations
+C.4,,B.5,mouse,Mus musculus,,mutations
+C.5,,B.5,mouse,Mus musculus,,mutations
+C.6,,B.5,mouse,Mus musculus,,mutations
+C.7,C.T,B.5,mouse,Mus musculus,,mutations
+T.1,C.T,B.5,mouse,Mus musculus,,mutations
+T.2,C.T,B.5,mouse,Mus musculus,,mutations
+C.3,,C.5,mouse,Mus musculus,,mutations
+C.4,,C.5,mouse,Mus musculus,,mutations
+C.5,,C.5,mouse,Mus musculus,,mutations
+C.6,,C.5,mouse,Mus musculus,,mutations
+C.7,C.T,C.5,mouse,Mus musculus,,mutations
+T.1,C.T,C.5,mouse,Mus musculus,,mutations
+T.2,C.T,C.5,mouse,Mus musculus,,mutations
+C.3,,D.5,mouse,Mus musculus,,mutations
+C.4,,D.5,mouse,Mus musculus,,mutations
+C.5,,D.5,mouse,Mus musculus,,mutations
+C.6,,D.5,mouse,Mus musculus,,mutations
+C.7,C.T,D.5,mouse,Mus musculus,,mutations
+T.1,C.T,D.5,mouse,Mus musculus,,mutations
+T.2,C.T,D.5,mouse,Mus musculus,,mutations
+C.6,,A.5,mouse,Mus musculus,,mutations
+C.7,C.T,A.5,mouse,Mus musculus,,mutations
+L.1,T.L,A.5,mouse,Mus musculus,,mutations
+C.6,,B.5,mouse,Mus musculus,,mutations
+C.7,,B.5,mouse,Mus musculus,,mutations
+T.1,C.T,B.5,mouse,Mus musculus,,mutations
+Ca.1,S.Ca,B.13,mouse,Mus musculus,increased caudal,knockout
+Ca.1,S.Ca,B.13,mouse,Mus musculus,decreased caudal,ectopic overexpression
+L.1,T.L,A.10,lizard,Aspidoscelis uniparens,,anterior gene expression
+L.1,T.L,C.10,lizard,Aspidoscelis uniparens,,anterior gene expression
+S.1,L.S,A.11,lizard,Aspidoscelis uniparens,,anterior gene expression
+Ca.1,S.Ca,D.10,lizard,Aspidoscelis uniparens,,anterior gene expression
+Ca.1,S.Ca,D.11,lizard,Aspidoscelis uniparens,,anterior gene expression
+Ca.3,,C.13,lizard,Aspidoscelis uniparens,,anterior gene expression
+Ca.4,,D.12,lizard,Aspidoscelis uniparens,,anterior gene expression
+Ca.6,,A.13,lizard,Aspidoscelis uniparens,,anterior gene expression
+Ca.7,,D.13,lizard,Aspidoscelis uniparens,,anterior gene expression
+T.187,,A.10,corn snake,Pantherophis guttatus,,anterior gene expression
+T.211,,C.10,corn snake,Pantherophis guttatus,,anterior gene expression
+S.1,T.S,A.11,corn snake,Pantherophis guttatus,,anterior gene expression
+S.4,S.Ca,C.11,corn snake,Pantherophis guttatus,,anterior gene expression
+Ca.1,S.Ca,D.10,corn snake,Pantherophis guttatus,,anterior gene expression
+Ca.1,S.Ca,D.11,corn snake,Pantherophis guttatus,,anterior gene expression
+Ca.1,S.Ca,C.12,corn snake,Pantherophis guttatus,,anterior gene expression
+Ca.4,,C.13,corn snake,Pantherophis guttatus,,anterior gene expression
+C.14,C.T,B.4,chicken,Gallus gallus,,
+T.1,C.T,B.9,chicken,Gallus gallus,,
+C.19,C.T,B.4,ostrich,Struthio camelus,,
+T.1,C.T,B.9,ostrich,Struthio camelus,,
+C.16,C.T,B.4,zebra finch,Guttata taeniopygia,,
+T.1,C.T,B.9,zebra finch,Guttata taeniopygia,,
+,T.L,A.10,mouse,Mus musculus,,
+,L.S,A.11,mouse,Mus musculus,,
+,T.L,C.10,mouse,Mus musculus,,
+,L.S,C.11,mouse,Mus musculus,,
+,T.L,D.10,mouse,Mus musculus,,
+,L.S,D.11,mouse,Mus musculus,,

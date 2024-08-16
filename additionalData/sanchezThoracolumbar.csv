@@ -1,0 +1,124 @@
+Order,Species,Specimen Identification,Thoracic,Lumbar,Thoracolumbar
+MARSUPIALIA,Dasyurus viverrinus,MNHN-A3315,13,6,19
+MARSUPIALIA,Sarcophilis laniarius,MNHN-A3296,13,6,19
+MARSUPIALIA,Perameles nasuta,MNHN-A3312,13,6,19
+MARSUPIALIA,Dendrolagus ursinus,MNHN-3300,13,6,19
+MARSUPIALIA,Thylogale billardierii,MNHN-A3125,13,6,19
+MARSUPIALIA,Phalanger orientalis,MNHNA3306,13,6,19
+MARSUPIALIA,Pseudocheirus peregrinus,MNHN-A3313,13,6,19
+MARSUPIALIA,Petauroides volans,MNHN-A3316,,19,19
+MARSUPIALIA,Petrogale penicillata,MNHN-A13813,13,6,19
+MARSUPIALIA,Phascolarctos cinereus,MNHN-A239b,11,8,19
+MARSUPIALIA,Notoryctes typhlops,Stirling 1891,19,5,4
+MARSUPIALIA,Caenolestes sp.,,13,6,19
+MARSUPIALIA,Pucadelphys andinus,,13,6,19
+MARSUPIALIA,Diprotodon australis,MNHN unnumbered,,19,19
+CHRYSOCHLORIDAE,Chrysochloris sp.,BMNH 1974.673,20,4,24
+CHRYSOCHLORIDAE,Chrysospalax trevelyani,BMNH 76.336,19,3,22
+CHRYSOCHLORIDAE,Calcochlorix obtusirostris,BMNH 39.3790,19,3,22
+TENRECIDAE,Microgale talazaci,BMNH 97.9.1.1707,16,7,23
+TENRECIDAE,Microgale longicaudata,BMNH 97.9.1.110,17,6,23
+TENRECIDAE,Microgale cowani,BMNH 75.2226,17,5,22
+TENRECIDAE,Limnogale mergulus,BMNH 35.1.8.256,17,5,22
+TENRECIDAE,Oryzorictes tetradactylus,BMNH 97.9.1.79,17,5,22
+TENRECIDAE,Potamogale velox,BMNH 75.1829,17,5,22
+TENRECIDAE,Hemicentetes semispinosus,BMNH 97.9.1.61,17,4,21
+TENRECIDAE,Setifer setosus,BMNH 1947.12.5.13,17,7,24
+TENRECIDAE,Tenrec ecaudatus,BMNH 998c,18,6,24
+TENRECIDAE,Galemys pyrenaicus,BMNH unnumbered,14,5,19
+TENRECIDAE,Mogera wogura,MNHN-A.127,14,5,19
+MACROSCELIDEA,Elephantulus myurus,BMNH 36.10.20.20,13,7,20
+MACROSCELIDEA,Elephantulus intufi,BMNH 92.1.9.1,12,8,20
+MACROSCELIDEA,Rhynchocyon cirnei,BMNH 1423B,13,7,20
+TUBULIDENTATA,Orycteropus afer,BMNH 931.B,13,8,21
+TUBULIDENTATA,Orycteropus afer,BMNH 1910.2.19,12,8,20
+TUBULIDENTATA,Orycteropus afer,MNHN-BU1255,13,8,21
+PROBOSCIDEA,Loxodonta africana,Bezuidenhout & Seegers 1996,,,23.5
+PROBOSCIDEA,Mammuthus meridionalis,MNHN unnumbered,20,3,23
+PROBOSCIDEA,Mammuthus primigenius,MNHN unnumbered,19,4,23
+EMBRITHOPODA,Arsinotherium zitelli,BMNHM26542,18,3,21
+HYRACOIDEA,Dendrohyrax arboreus,BMNH 6.7.1.200,22,7,29
+HYRACOIDEA,Dendrohyrax validus,BMNH 1937.11.4.6,23,8,31
+HYRACOIDEA,Dendrohyrax dorsalis,BMNH 50.1637,20,8,28
+XENARTHRA,Myrmecophaga tridactyla,MNHN-A13806,15,2,17
+XENARTHRA,Zaedyus pichiy,MNHN unnumbered,11,3,14
+XENARTHRA,Scelidotherium leptocephala,MNHN-1885.24,15,5,20
+XENARTHRA,Thalassocnus natans,MNHN unnumbered,17,2,19
+XENARTHRA,Megatherium americanum,BMNH-unnumbered,16,3,19
+SCANDENTIA,Ptilocercus lowii,BMNH 67.1479,13,5,18
+SCANDENTIA,Ptilocercus lowii,BMNH 1934.5.6.1,14,5,19
+SCANDENTIA,Scandentia,Sargis 2001 p.475,,,19
+DERMOPTERA,Cynocephalus volans,BMNH 75.18.30,13,6,19
+DERMOPTERA,Cynocephalus volans,BMNH 1877.10.6.5,14,7,21
+DERMOPTERA,Cynocephalus volans,BMNH 79.848,13,6,19
+DERMOPTERA,Cynocephalus volans,BMNH 67.1482,14,5,19
+PRIMATES,Indri indri,MNHN unnumbered,12,8,20
+PRIMATES,Nycticebus coucang,MNHN-A3952.111.158,15,7,22
+PRIMATES,Nycticebus coucang,MNHN-A3917,16,7,23
+PRIMATES,Nycticebus coucang,MNHN-A3961,15,8,23
+PRIMATES,Daubentonia madagascariensis,MNHN-1907–326,13,6,21
+PRIMATES,Avahi laniger,MNHN-3912,12,8,20
+PRIMATES,Galago sp.,MNHN-1864.49,,,20
+PRIMATES,Eulemur mongoz,MNHN-A1000S,12,7,19
+PRIMATES,Galago senegalensis,MNHN-A3955,12,7,19
+PRIMATES,Ateles marginatus,MNHN-A3979,14,4,18
+PRIMATES,Ateles geoffroyi,MNHN,14,4,18
+PRIMATES,Lagothrix lagotricha,MNHN-A3992,14,5,19
+LAGOMORPHA,Oryctolagus cuniculus,MNHN unnumbered,12,7,19
+SORICIDAE,Crocidura sp.,BMNH 56.13.10.404,13,6,19
+ERINACEIDAE,Echinosorex gymnura,BMNH 1951.11.12.3,15,6,21
+ERINACEIDAE,Echinosorex gymnura,BMNH 1900.3.30.3,15,5,20
+ERINACEIDAE,Hylomys suillus,BMNH 1960.8.4.7,14,6,20
+ERINACEIDAE,Hemiechinus auritus,BMNH 1938.12.17.2,14,5,19
+ERINACEIDAE,Hemiechinus auritus,BMNH 1938.12.17.4,15,4,19
+ERINACEIDAE,Hemiechinus auritus,BMNH 1938.12.17.3,14,5,19
+ERINACEIDAE,Hemiechinus auritus,BMNH 1938.12.17.1,14,5,19
+ERINACEIDAE,Atelerix algirus,BMNH 1958.8.14.2,16,5,21
+TALPIDAE,Galemys pyrenaicus,BMNH unnumbered,14,5,19
+TALPIDAE,Mogera wogura,MNHN-A.127,14,5,19
+SOLENODONTIDAE,Solenodon cubanus,BMNH 1898.1.20.1,15,4,19
+CHIROPTERA,Pteropus rufus,MNHN-1283,12,5,17
+ARTIODACTYLA,Hippopotamus amphibius,MNHN unnumbered A,15,4,19
+ARTIODACTYLA,Hippopotamus amphibius,MNHN unnumbered B,15,4,19
+ARTIODACTYLA,Okapia johnstoni,MNHN-A14073.1904.57,14,5,19
+ARTIODACTYLA,Ammotragus lervia,MNHN unnumbered,13,6,19
+ARTIODACTYLA,Bison bison,MNHN unnumbered,14,5,19
+ARTIODACTYLA,Bubalus sp.,MNHN,13,6,19
+ARTIODACTYLA,Megalocerus sp.,MNHN unnumbered,19,,
+ARTIODACTYLA,Equus onager,MNHN unnumbered,18,5,23
+ARTIODACTYLA,Equus caballus,MNHN unnumbered,18,5,23
+ARTIODACTYLA,Rhinoceros unicornis,MNHN unnumbered,19,3,22
+ARTIODACTYLA,Hipparion sp.,MNHN unnumbered,17,6,23
+ARTIODACTYLA,Diceratherium cooki,BMNH M15288,18,5,23
+ARTIODACTYLA,Moropus elatus,BMNH M14008,15,6,21
+PHOLIDOTA,Manis tetradactyla,BMNH 63.2.13.23,13,6,19
+PHOLIDOTA,Manis tetradactyla,BMNH 1939.2647,14,5,19
+PHOLIDOTA,Manis tetradactyla,BMNH 75.1834,12,5,17
+PHOLIDOTA,Manis tetradactyla,BMNH 1934.7.4.1,12,5,17
+CARNIVORA,Suricata suricatta,MNHN-A3439,14,6,20
+CARNIVORA,Herpestes ichneumon,MNHN-A3443,12,8,20
+CARNIVORA,Canis lupus,MNHN unnumbered,13,7,20
+CARNIVORA,Crocruta crocuta,MNHN-1888.7,15,5,20
+CARNIVORA,Ursus spelaeus,MNHN unnumbered,14,6,20
+CARNIVORA,Ursus spelaeus,MNHN-1903.20,14,6,20
+CARNIVORA,Mellivora capensis,MNHN-A3413,15,4,19
+CARNIVORA,Mustela vison,MNHN-3400,14,6,20
+CARNIVORA,Martes domestica,MNHN-A3410,14,6,20
+CARNIVORA,Nasua nasua,MNHN-A3497,14,6,20
+CARNIVORA,Viverra zibetha,MNHN-A3505,13,7,20
+CARNIVORA,Cryptoprocta ferox,MNHN-A3452,13,7,20
+CARNIVORA,Panthera tigris,MNHN-A3461,13,7,20
+CARNIVORA,Otocyon megalotis,MNHN-A3475,13,7,20
+CARNIVORA,Arctictis binturong,MNHN-A3494,13,7,20
+CARNIVORA,Ursus maritimus,MNHN unnumbered,14,6,20
+CARNIVORA,Panthera leo,MNHN unnumbered,13,7,20
+CARNIVORA,Panthera pardus,MNHN unnumbered,13,7,20
+CARNIVORA,Eumetopias jubatus,MNHN unnumbered,15,5,20
+CARNIVORA,Acinonyx jubatus,MNHN,13,7,20
+CARNIVORA,Monachus monachus,MNHN-7953,15,5,20
+CARNIVORA,Callorhinus ursinus,MNHN-1900.766,15,5,20
+CARNIVORA,Odobenus rosmarus,MNHN unnumbered,14,6,20
+CARNIVORA,Enhydra lutris,PMZ V.5.1863.128,14,6,20
+NOTOUNGULATA,Toxodon platensis,BMNHM26541,15,4,19
+NOTOUNGULATA,Toxodon platensis,Museo de La Plata,,,19
+LITOPTERNA,Macrauchenia patachonica,Museo de La Plata,,,20.5

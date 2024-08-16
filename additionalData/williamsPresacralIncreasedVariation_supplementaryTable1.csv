@@ -1,0 +1,174 @@
+Major clade,Genus,species,MHI1,N,N Atypical CTL2,CTL Mode3,C Mode,T Mode,L Mode,Trans-T Mode4,Trans-L Mode5,S Mode,N int. C/T6,N int. T/L7,N int. L/S8,TransN9,N int. trans-T/L10,Analysis 1,Analysis 211,Analysis 3,Analysis 412,Analysis 513,Analysis 614,Analysis 715,Analysis 816,Analysis 917,Analysis 1018
+Marsupalia,Didelphis,virginiana / marsupalis,0.237,70,9,26,7,13,6,9,10,2,1,0,1,66,2,SLOW,SLOW,SLOW,ARB.,NON,NOT,QUA.,AMBL.,MOB.,MOB.
+Marsupalia,Caluromys,philander,0.067,30,1,26,7,13,6,10,9,2,0,1,0,30,2,-,-,-,ARB.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Marsupalia,Sarcophilus,harrisii,0.143,14,1,26,7,13,6,10.5,8.5,3,0,0,1,13,0,SLOW,INT.,SLOW,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Marsupalia,Dasyurus,viverrinus,0,11,0,26,7,13,6,10,9,2,1,0,0,11,1,FAST,INT.,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Marsupalia,Phascolarctos,cinereus,0.439,12,3,26,7,11,8,8.5,10.5,3,0,0,1,12,1,SLOW,SLOW,-,ARB.,UPR.,NOT,QUA.,CLIM.,STAB.,DS CLIMB
+Marsupalia,Vombatus,ursinus,0.189,20,2,26,7,15,4,11,8,4,0,1,0,20,2,SLOW,SLOW,SLOW,TER.,NON,NOT,DIG.,AMBL.,STAB.,-
+Marsupalia,Macropus,agilis / eugenii / fuliginosus / giganteus / irma / parryi /  robustus / rufrogriseus / rufus,0,44,0,26,7,13,6,11,8,2,0,0,0,44,0,FAST,INT.,-,TER.,UPR.,NOT,BIP.,RUN.,MOB.,-
+Marsupalia,Dendrolagus,goodfellowi / lumholtzi / matschiei / ursinus,0.091,21,1,26,7,13,6,10,9,2,0,2,2,20,0,-,-,-,ARB.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Marsupalia,Bettongia,gaimardi / penicillata,0,12,0,26,7,13,6,10,9,2,0,0,0,12,0,FAST,INT.,FAST,TER.,UPR.,NOT,BIP.,RUN.,MOB.,-
+Afrotheria,Elephas / Loxodonta,maximus / africanus,0.644,10,5,30,7,19,3,19,4,4,0,0,0,8,0,SLOW,SLOW,SLOW,TER.,NON,NOT,QUA.,AMBL.,STAB.,DS QUAD.
+Afrotheria,Trichechus,manatus,0.537,28,10,25,6,17,2,NA,NA,NA,0,0,0,-,-,-,-,-,AQU.,-,-,SWIM.,OTH.,STAB.,-
+Afrotheria,Orycteropus,afer,0,14,0,28,7,13,8,10,11,6,0,0,0,12,0,SLOW,SLOW,SLOW,TER.,NON,NOT,DIG.,AMBL.,STAB.,-
+Afrotheria,Petrodromus,tetradactylus,0,14,0,27,7,13,7,11,9,3,0,0,0,14,0,-,-,-,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Afrotheria,Elephantulus,brachyrhynchus / myurus / rufescens / rupestris,0.489,20,6,27,7,14,6,11,9,3,0,0,1,19,2,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Afrotheria,Eremitalpa,granti,0.541,22,9,26,7,17,2,14,5,5,0,0,1,22,0,SLOW,SLOW,SLOW,FOS.,NON,NOT,DIG.,OTH.,STAB.,-
+Xenarthra,Dasypus,novemcinctus,0.545,19,4,22,7,10,5,7,8,9,0,0,1,19,1,SLOW,SLOW,SLOW,TER.,NON,NOT,DIG.,AMBL.,STAB.,-
+Xenarthra,Dasypus,hybridus,0.442,16,4,21,7,9,5,6,8,8,0,0,1,16,1,SLOW,SLOW,SLOW,TER.,NON,NOT,DIG.,AMBL.,STAB.,-
+Xenarthra,Euphractus,sexcinctus,0.385,14,3,21,7,11,3,7,7,8,0,1,1,12,3,SLOW,SLOW,SLOW,TER.,NON,NOT,DIG.,AMBL.,STAB.,-
+Xenarthra,Cyclopes,didactylus,0.517,26,12,24,7,15,2,13,4.5,5,1,2,0,26,0,SLOW,SLOW,-,ARB.,NON,ANTI.,SUSP.,CLIM.,STAB.,DS CLIMB
+Xenarthra,Myrmecophaga,tridactyla,0.477,33,11,25,7,16,2,14,4,5,1,0,0,33,2,-,-,-,TER.,NON,NOT,DIG.,AMBL.,STAB.,-
+Xenarthra,Tamandua,mexicana / tetradactyla,0.575,56,22,27,7,17,3,14,6,5,1,0,0,56,4,-,-,-,ARB.,NON,NOT,SUSP.,AMBL.,STAB.,-
+Xenarthra,Bradypus,variagatus,0.717,26,15,27,9,15,3,16,2,6,0,3,0,26,0,SLOW,SLOW,-,ARB.,NON,ANTI.,SUSP.,CLIM.,STAB.,DS CLIMB
+Xenarthra,Bradypus,tridactylus,0.462,13,4,28,9,15,4,16,3,6,1,0,0,13,1,SLOW,SLOW,-,ARB.,NON,ANTI.,SUSP.,CLIM.,STAB.,DS CLIMB
+Xenarthra,Choloepus,hoffmanni,0.704,38,23,32,6,23,3,22,4,7,2,6,1,36,2,SLOW,SLOW,-,ARB.,NON,ANTI.,SUSP.,CLIM.,STAB.,DS CLIMB
+Xenarthra,Choloepus,didactylus,0.827,22,16,33,7,23,3,22,4,7,1,4,0,20,2,SLOW,SLOW,-,ARB.,NON,ANTI.,SUSP.,CLIM.,STAB.,DS CLIMB
+Eulipotyphla,Scutisorex,somereni,0.792,16,10,31,7,13,11,12,12,5,0,0,0,14,0,-,-,-,TER.,NON,NOT,QUA.,AMBL.,STAB.,-
+Eulipotyphla,Scalopus,aquaticus,0,12,0,26,7,14,5,12,7,5,0,0,0,8,0,SLOW,SLOW,SLOW,FOS.,NON,NOT,DIG.,OTH.,MOB.,-
+Chiroptera,Cynopterus,brachyotis,0.582,14,6,25,7,14,4,-,-,-,0,0,0,-,-,-,-,-,-,-,ANTI.,SUSP.,OTH.,STAB.,DS CLIMB
+Pholidota,Phataginus,tricuspis,0.526,13,4,27,7,14,6,12,8,3,0,0,0,13,1,SLOW,SLOW,-,ARB.,NON,NOT,SUSP.,CLIM.,STAB.,DS CLIMB
+Pholidota,Smutsia,gigantea,0.167,12,1,26,7,14,5,12,7,4,0,1,0,12,0,SLOW,SLOW,SLOW,TER.,NON,NOT,DIG.,AMBL.,STAB.,-
+Pholidota,Manis,pentadactyla,0.473,11,3,29,7,16,6,13,9,4,0,0,0,11,0,SLOW,SLOW,SLOW,TER.,NON,NOT,DIG.,AMBL.,STAB.,-
+Carnivora,Paradoxurus,hermaphroditus,0.318,12,2,27,7,13,7,10,10,3,0,0,0,12,0,-,-,-,ARB.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Carnivora,Genetta,genetta / maculata / servalina,0.095,21,1,27,7,13,7,10,10,3,0,0,0,21,0,-,-,-,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Carnivora,Herpestes,auropunctatus / ichneumon,0,14,0,27,7,13,7,10,10,3,0,0,0,14,0,-,-,-,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Carnivora,Crocuta,crocuta,0.560,14,5,27,7,15,5,12,8,4,0,0,0,14,0,FAST,INT.,FAST,TER.,NON,NOT,QUA.,RUN.,STAB.,DS QUAD.
+Carnivora,Acinonyx,jubatus,0,12,0,27,7,13,7,10,10,3,0,0,0,12,0,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Carnivora,Leptailurus,serval,0.091,14,1,27,7,13,7,10,10,3,0,1,0,14,0,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Carnivora,Leopardus,pardalis / tigrinus / wiedii,0.091,22,1,27,7,13,7,10,10,3,0,1,0,22,0,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Carnivora,Lynx,rufus / canadensis,0.251,37,5,27,7,13,7,10,10,3,0,0,1,37,1,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Carnivora,Panthera,leo / onca / pardus / tigris / uncia,0.084,70,3,27,7,13,7,11,9,3,0,0,0,70,0,FAST,INT.,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Carnivora,Urocyon,cinereoargenteus,0,15,0,27,7,13,7,10,10,3,0,1,0,15,0,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Carnivora,Vulpes,vulpes / zerda,0,38,0,27,7,13,7,10,10,3,0,1,0,38,0,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Carnivora,Lycaon,pictus,0.533,10,3,27,7,13,7,10,10,3,0,0,0,10,0,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Carnivora,Cerdocyon,thous,0.457,15,4,27,7,13,7,10,10,3,0,0,0,14,0,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Carnivora,Lycalopex,gymnocercus,0.092,43,2,27,7,13,7,10,10,3,0,1,0,43,0,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Carnivora,Canis,adustus / aureus / latrans / lupus / mesomelas / simensis,0.277,78,12,27,7,13,7,10,10,3,0,1,1,78,0,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Carnivora,Ailuropoda,melanoleuca,0.358,20,4,25,7,13,5,11,7,5,0,3,0,19,2,SLOW,SLOW,SLOW,TER.,UPR.,NOT,QUA.,AMBL.,STAB.,-
+Carnivora,Ursus,americanus / arctos / maritimus / thibetanus,0.254,78,11,27,7,14,6,11,9,5,0,5,2,76,0,SLOW,SLOW,SLOW,TER.,NON,NOT,QUA.,AMBL.,MOB.,MOB.
+Carnivora,Melursus,ursinus,0.419,15,4,27,7,15,5,12,8,5,0,1,0,15,0,SLOW,SLOW,SLOW,TER.,NON,NOT,DIG.,AMBL.,STAB.,-
+Carnivora,Helarctos,malayanus,0,10,0,26,7,15,4,12,7,5,0,1,0,9,0,SLOW,SLOW,SLOW,TER.,NON,NOT,QUA.,AMBL.,STAB.,-
+Carnivora,Zalophus,californianus,0.181,21,2,27,7,15,5,11,9,3,0,0,0,20,5,-,-,-,AQU.,-,-,SWIM.,OTH.,STAB.,-
+Carnivora,Odobenus,rosmarus,0.356,10,2,27,7,15,5,12,8,4,0,0,0,10,0,-,-,-,AQU.,-,-,SWIM.,OTH.,STAB.,-
+Carnivora,Potos,flavus,0.143,14,1,27,7,14,6,11,9,3,0,0,0,14,0,-,-,-,ARB.,NON,NOT,SUSP.,CLIM.,MOB.,MOB.
+Carnivora,Procyon ,lotor,0.251,50,7,27,7,14,6,11,9,3,0,3,0,50,3,FAST,INT.,FAST,TER.,NON,NOT,QUA.,AMBL.,MOB.,MOB.
+Carnivora,Taxidea,taxus,0,13,0,27,7,14,6,11,9,3,0,3,1,13,0,SLOW,SLOW,SLOW,TER.,NON,NOT,DIG.,AMBL.,MOB.,MOB.
+Carnivora,Martes,americana / flavigula / foina / martespennati,0.045,44,1,27,7,14,6,10,10,3,0,0,0,44,0,FAST,INT.,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Carnivora,Neovison,vison,0.119,33,2,27,7,14,6,11,9,3,0,6,2,33,1,SLOW,INT.,SLOW,TER.,NON,NOT,SWIM.,RUN.,MOB.,MOB.
+Carnivora,Mustela,frenata / lutreolina / nigripes / putorius / sibirica,0.216,52,6,27,7,14,6,11,9,3,0,3,2,52,1,SLOW,INT.,SLOW,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Perissodactyla,Equus,hemionus / quagga / zebra,0.764,11,6,31,7,18,6,17.5,6.5,5,0,0,0,11,0,FAST,INT.,FAST,TER.,NON,NOT,QUA.,RUN.,STAB.,DS QUAD.
+Perissodactyla,Tapirus,bairdii / indicus / terrestris / sp.,0.248,15,2,30,7,18,5,22,1,6,0,0,0,15,0,SLOW,SLOW,SLOW,TER.,NON,NOT,QUA.,AMBL.,STAB.,DS QUAD.
+Perissodactyla,Ceratotherium/Diceros/ Dicerorhinus/Rhinoceros,bicornis / simum / sumatrensis / unicornis,0.133,15,1,29,7,19,3,21,1,5,0,0,0,15,0,SLOW,SLOW,SLOW,TER.,NON,NOT,QUA.,AMBL.,STAB.,DS QUAD.
+Cetartiodactyla,Pecari,tajacu,0.511,17,4,26,7,14,5,11,8,4,0,0,2,17,0,FAST,INT.,FAST,TER.,NON,NOT,QUA.,RUN.,STAB.,DS QUAD.
+Cetartiodactyla,Phacochoerus,africanus,0.182,11,1,26,7,13,6,9,10,4,0,0,0,11,0,SLOW,SLOW,SLOW,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Cetartiodactyla,Potamochoerus,porcus,0.362,15,3,26,7,14,5,10.5,8.5,4,0,0,0,15,0,SLOW,INT.,SLOW,TER.,NON,NOT,QUA.,AMBL.,STAB.,DS QUAD.
+Cetartiodactyla,Hylochoerus,meinertzhageni,0.233,16,2,26,7,14,5,10,9,4,0,0,0,16,1,SLOW,INT.,SLOW,TER.,NON,NOT,QUA.,AMBL.,STAB.,DS QUAD.
+Cetartiodactyla,Hippopotamus/Choeropsis,amphibius / liberiensis,0.200,10,1,26,7,15,4,11,8,4.5,0,0,0,10,0,SLOW,SLOW,SLOW,TER.,NON,NOT,SWIM.,AMBL.,STAB.,DS QUAD.
+Cetartiodactyla,Caperea ,marginata,0.471,26,9,26,7,18,1,-,-,NA,0,0,0,-,-,-,-,-,AQU.,-,-,SWIM.,OTH.,STAB.,-
+Cetartiodactyla,Lagenorhynchus,acutus,0.810,28,18,44,7,14,23,-,-,NA,0,0,0,-,-,-,-,-,AQU.,-,-,SWIM.,OTH.,MOB.,-
+Cetartiodactyla,Okapia,johnstoni,0.410,13,3,26,7,14,5,13,7,4,0,0,0,13,1,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,STAB.,DS QUAD.
+Cetartiodactyla,Giraffa,camelopardalis,0.282,13,2,26,7,14,5,14,5,4,0,0,0,12,0,FAST,INT.,FAST,TER.,NON,NOT,QUA.,RUN.,STAB.,DS QUAD.
+Cetartiodactyla,Antilocapra,americana,0,24,0,26,7,13,6,11,8,4,0,0,0,24,0,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Cetartiodactyla,Odocoileus,virginiana / hemionus,0.225,42,5,26,7,13,6,11,8,4,0,0,2,42,0,FAST,INT.,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Cetartiodactyla,Alces,alces,0.200,10,1,26,7,13,6,11,8,5,0,2,0,10,0,FAST,INT.,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Cetartiodactyla,Tragelaphus,angasii / buxtoni / eurycerus / imberbis / scriptus / spekii / strepsiceros / sp.,0.257,76,11,26,7,13,6,11,8,4,0,2,0,76,0,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Cetartiodactyla,Taurotragus,derbianus / oryx,0.333,22,4,26,7,13,6,12,7,5,0,2,2,21,0,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,STAB.,DS QUAD.
+Cetartiodactyla,Boselaphus,tragocamelus,0,13,0,26,7,13,6,11,8,4,0,1,0,13,1,FAST,SLOW,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Cetartiodactyla,Syncerus,caffer,0.692,14,7,26,7,13,6,12,7,4,0,0,0,14,0,FAST,INT.,FAST,TER.,NON,NOT,QUA.,RUN.,STAB.,DS QUAD.
+Cetartiodactyla,Ourebia,ourebi,0.228,18,1,26,7,13,6,11,8,4,0,0,0,18,0,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Cetartiodactyla,Redunca,arundinum / fulvorufula / redunca / sp.,0,15,0,26,7,13,6,11,8,4,0,1,0,15,0,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Cetartiodactyla,Kobus,ellipsiprymnus / kob / leche / megaceros / vardonii,0.309,17,3,26,7,13,6,7,12,7,0,1,0,17,0,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Cetartiodactyla,Cephalophus,dorsalis / leucogaster / monticola / natalensis /  nigrifrons / silvicultor / weynsi,0.251,43,6,26,7,14,5,12,7,4,0,1,1,40,0,SLOW,SLOW,SLOW,TER.,NON,NOT,QUA.,RUN.,STAB.,DS QUAD.
+Cetartiodactyla,Antilope,cervicapra,0,11,0,26,7,13,6,11,8,4,0,0,0,11,0,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Cetartiodactyla,Aepyceros,melampus,0,13,0,26,7,13,6,11,8,4,0,0,0,12,0,FAST,INT.,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Cetartiodactyla,Oreamnos,americanus,0,20,0,26,7,13,6,11,8,4,0,1,0,20,1,SLOW,SLOW,SLOW,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Cetartiodactyla,Ovibos,moschatus,0,11,0,26,7,13,6,11,8,4,0,0,0,11,1,SLOW,SLOW,SLOW,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Cetartiodactyla,Damaliscus,lunatus / pygargus / sp.,0.153,25,2,26,7,13,6,12,7,4,0,1,0,25,2,FAST,INT.,FAST,TER.,NON,NOT,QUA.,RUN.,STAB.,DS QUAD.
+Cetartiodactyla,Alcelaphus,buselaphus,0,10,0,26,7,13,6,12,7,4,0,0,0,10,0,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,STAB.,DS QUAD.
+Cetartiodactyla,Oryx,beisa / dammah / gazella / leucoryx,0.170,23,2,26,7,13,6,11,8,4,0,2,1,22,0,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Primates,Otolemur,crassicaudatus / garnettii,0.549,23,10,26,7,13,6,12,8,3,0,1,0,18,0,-,-,-,ARB.,NON,NOT,QUA.,RUN.,STAB.,MOB.
+Primates,Euoticus,elegantulus,0.386,18,4,26,7,13,6,11,8,3,0,0,0,3,0,-,-,-,ARB.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Primates,Nycticebus,coucang,0.688,22,11,30,7,16,7,14,9,6,1,0,2,9,0,SLOW,SLOW,-,ARB.,NON,ANTI.,SUSP.,CLIM.,STAB.,DS CLIMB
+Primates,Loris,tardigradus,0.327,11,2,30,7,15,8,13,10,4,0,1,0,6,0,-,-,-,ARB.,NON,ANTI.,SUSP.,CLIM.,STAB.,DS CLIMB
+Primates,Perodicticus,potto,0.640,25,12,29,7,15,7,14,8,6,0,0,0,4,0,SLOW,SLOW,-,ARB.,NON,ANTI.,SUSP.,CLIM.,STAB.,DS CLIMB
+Primates,Arctocebus,calabarensis,0.609,26,11,28,7,14,7,13,8,6,0,2,0,3,0,-,-,-,ARB.,NON,ANTI.,SUSP.,CLIM.,MOB.,-
+Primates,Lemur,catta,0.200,10,1,26,7,12,7,10,9,3,0,0,0,4,0,-,-,-,ARB.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Primates,Eulemur,albifrons / collaris / macaco / mongoz /   rubriventer /  sanfordi,0.363,34,7,26,7,12,7,10,9,3,0,1,1,27,2,-,-,-,ARB.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Primates,Indri,indri,0.533,15,5,28,7,12,9,11,10,3,0,2,0,5,0,-,-,-,ARB.,UPR.,NOT,SUSP.,CLIM.,STAB.,DS CLIMB
+Primates,Propithecus ,coquereli / diadema / verreauxi / sp.,0.670,14,7,27,7,12,8,-,-,2,0,0,0,-,-,-,-,-,ARB.,UPR.,ANTI.,SUSP.,CLIM.,STAB.,DS CLIMB
+Primates,Saimiri,sciureus,0.484,20,20,27,7,13,7,10,10,3,0,0,2,9,1,FAST,INT.,FAST,ARB.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Primates,Cebus,albifrons / capucinus / sp.,0.533,31,12,27,7,14,6,11,9,3,0,1,0,6,0,FAST,INT.,FAST,ARB.,NON,NOT,SUSP.,RUN.,MOB.,MOB.
+Primates,Saguinus,oedipus,0,11,0,26,7,12,7,10,9,3,0,0,0,6,0,FAST,INT.,FAST,ARB.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Primates,Callithrix,jacchus,0,14,0,26,7,13,6,10,9,3,0,0,0,5,1,FAST,INT.,FAST,ARB.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Primates,Aotus,azarae / nancymaae / sp.,0.549,44,7,29,7,14,8,11,11,3,0,0,0,37,0,-,-,-,ARB.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Primates,Pithecia,irrorata / monachus / pithecia,0.615,13,5,26,7,13,6,10,9,3,0,1,0,9,0,-,-,-,ARB.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Primates,Lagothrix,lagotricha,0.568,38,14,25,7,14,4,11,7,3,0,0,3,14,1,-,-,-,ARB.,NON,NOT,SUSP.,CLIM.,STAB.,DS CLIMB
+Primates,Ateles,belzebuth / chamek / fusciceps / geoffroyi / paniscus / sp.,0.393,43,10,25,7,14,4,12,6,3,0,1,0,4,0,-,-,-,ARB.,NON,ANTI.,SUSP.,CLIM.,STAB.,DS CLIMB
+Primates,Alouatta,caraya / palliata / pigra / seniculus,0.479,33,10,26,7,14,5,12,7,3,0,0,0,4,0,SLOW,SLOW,-,ARB.,NON,NOT,SUSP.,CLIM.,STAB.,DS CLIMB
+Primates,Nomascus,gabriellae,0.500,13,4,26,7,14,5,14,5,5,0,0,1,3,0,-,-,-,ARB.,UPR.,ANTI.,SUSP.,CLIM.,STAB.,DS CLIMB
+Primates,Nomascus,concolor,0.416,20,5,25,7,13,5,14,4,4,0,1,0,7,1,-,-,-,ARB.,UPR.,ANTI.,SUSP.,CLIM.,STAB.,DS CLIMB
+Primates,Symphalangus,syndactylus,0.590,78,34,25,7,13,5,13,5,5,0,6,3,37,0,-,-,-,ARB.,UPR.,ANTI.,SUSP.,CLIM.,STAB.,DS CLIMB
+Primates,Hoolock,hoolock,0.471,24,7,25,7,13,5,13,5,4,0,0,1,28,2,-,-,-,ARB.,UPR.,ANTI.,SUSP.,CLIM.,STAB.,DS CLIMB
+Primates,Hylobates,agilis / lar / moloch,0.430,268,73,25,7,13,5,13,5,4,0,10,6,152,7,-,-,-,ARB.,UPR.,ANTI.,SUSP.,CLIM.,STAB.,DS CLIMB
+Primates,Pongo,abelii / pygmaeus,0.404,152,37,23,7,12,4,12,4,5,1,3,3,79,4,SLOW,SLOW,-,ARB.,UPR.,ANTI.,SUSP.,CLIM.,STAB.,DS CLIMB
+Primates,Pan,paniscus / troglodytes,0.487,334,106,24,7,13,4,13,4,6,4,9,16,204,5,-,-,-,TER.,UPR.,ANTI.,SUSP.,CLIM.,STAB.,DS CLIMB
+Primates,Homo,sapiens,0.244,1182,158,24,7,12,5,12,5,5,7,29,30,1043,103,SLOW,SLOW,-,TER.,UPR.,NOT,BIP.,RUN.,STAB.,-
+Primates,Gorilla,beringei,0.208,107,12,23,7,13,3,13,3,6,0,1,1,69,0,SLOW,SLOW,-,TER.,UPR.,NOT,SUSP.,CLIM.,STAB.,DS CLIMB
+Primates,Gorilla,gorilla,0.558,262,119,24,7,13,4,13,4,6,0,6,14,205,10,SLOW,SLOW,-,TER.,UPR.,NOT,SUSP.,CLIM.,STAB.,DS CLIMB
+Primates,Trachypithecus,cristatus / phayrei,0.132,131,7,26,7,12,7,10,9,3,0,3,1,131,0,FAST,FAST,FAST,ARB.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Primates,Presbytis,melalophos / rubicunda,0.257,15,2,26,7,12,7,10,9,3,0,0,0,4,0,FAST,FAST,FAST,ARB.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Primates,Nasalis,larvatus,0.041,49,1,26,7,12,7,10,9,3,0,0,0,8,0,FAST,FAST,FAST,ARB.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Primates,Macaca,arctoides / fascicularis / fuscata / leonina / maura /  mulatta / nemestrina / nigra / silenus / sinica / sylvanus,0.211,1049,121,26,7,12,7,10,9,3,0,5,16,37,0,FAST,FAST,FAST,ARB.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Primates,Theropithecus,gelada,0,28,0,26,7,13,6,10,9,3,0,0,0,4,0,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Primates,Papio,hamadryas / anubis / papio / cynocephalus,0.241,129,17,26,7,13,6,10,9,3,0,8,1,93,0,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Primates,Mandrillus,sphinx / leucophaeus,0.125,19,2,26,7,12,7,10,9,3,0,1,0,13,0,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Primates,Miopithecus,talapoin,0.133,15,2,26,7,13,6,10,9,3,0,0,0,5,1,FAST,FAST,FAST,ARB.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Primates,Chlorocebus,aethiops / cynosurus / pygerythrus / sabaeus,0.262,28,7,26,7,12,7,-,-,3,0,2,0,-,-,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Primates,Cercopithecus,ascanius,0.095,21,1,26,7,12,7,-,-,3,0,3,0,-,-,FAST,FAST,FAST,ARB.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Glires (rodents + lagomorphs),Lepus,alleni / americanus / townsendii / californicus /  europaeus,0.118,17,1,26,7,12,7,10,9,4,0,1,0,17,1,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Glires (rodents + lagomorphs),Microsciurus,alfari / flaviventer / mimulus,0,41,0,26,7,12,7,-,-,3,0,0,0,-,-,-,-,-,ARB.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Glires (rodents + lagomorphs),Sciurus,carolinensis / niger,0.119,65,4,26,7,12,7,10,9,3,0,1,0,10,0,FAST,INT.,FAST,ARB.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Glires (rodents + lagomorphs),Tamiasciurus,hudsonicus,0.118,17,1,26,7,12,7,10,9,3,0,2,1,16,3,FAST,INT.,SLOW,ARB.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Glires (rodents + lagomorphs),Tamias,minimus / striatus,0.308,24,4,26,7,12.5,6.5,10,9,3,0,0,2,23,1,FAST,INT.,FAST,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Glires (rodents + lagomorphs),Marmota,marmota / monax / caligata,0.378,10,2,26,7,12,7,10,9,4,0,0,1,10,0,SLOW,SLOW,SLOW,TER.,NON,NOT,DIG.,AMBL.,MOB.,-
+Glires (rodents + lagomorphs),Aplodontia,rufa,0.476,15,4,26,7,13,6,10,9,5,0,1,2,15,0,SLOW,SLOW,SLOW,TER.,NON,NOT,DIG.,OTH.,MOB.,-
+Glires (rodents + lagomorphs),Coendou,prehensilis,0.590,13,5,28,7,15,6,12,9,3,1,2,0,13,2,SLOW,SLOW,SLOW,ARB.,NON,NOT,SUSP.,CLIM.,STAB.,DS CLIMB
+Glires (rodents + lagomorphs),Erethizon,dorsatum,0.644,10,5,27,7,14,6,11,9,3,1,1,0,10,0,SLOW,SLOW,SLOW,TER.,NON,NOT,QUA.,AMBL.,MOB.,MOB.
+Glires (rodents + lagomorphs),Cryptomys,hottentotus,0.644,10,5,26,7,13,6,9,10,4,0,1,1,9,0,SLOW,SLOW,SLOW,FOS.,NON,NOT,DIG.,OTH.,MOB.,-
+Glires (rodents + lagomorphs),Heliophobius,argenteocinereus,0.439,12,3,25,7,12,6,8,10,4,0,0,1,12,1,SLOW,SLOW,SLOW,FOS.,NON,NOT,DIG.,OTH.,MOB.,-
+Glires (rodents + lagomorphs),Heterocephalus,glaber,0.467,25,7,26,7,11,8,9,10,3,0,4,1,13,0,SLOW,SLOW,SLOW,FOS.,NON,NOT,DIG.,OTH.,MOB.,-
+Glires (rodents + lagomorphs),Dolichotis,patagonum,0.303,12,2,26,7,12,7,13,6,4,0,0,0,12,0,FAST,FAST,FAST,TER.,NON,NOT,QUA.,RUN.,STAB.,DS QUAD.
+Glires (rodents + lagomorphs),Hydrochoerus,hydrochaeris,0.180,41,4,26,7,13,6,13,6,4,0,1,0,40,1,SLOW,INT.,SLOW,TER.,NON,NOT,QUA.,RUN.,STAB.,DS QUAD.
+Glires (rodents + lagomorphs),Ctenomys,boliviensis,0.133,15,1,26,7,12,7,10,9,4,0,0,0,15,0,SLOW,SLOW,SLOW,FOS.,NON,NOT,DIG.,OTH.,MOB.,-
+Glires (rodents + lagomorphs),Cratogeomys,castanops,0.143,14,1,25,7,12,6,11,8,5,0,0,1,14,0,SLOW,SLOW,SLOW,FOS.,NON,NOT,DIG.,OTH.,MOB.,-
+Glires (rodents + lagomorphs),Geomys,bursarius / pinetis,0.267,21,3,26,7,12,7,10,9,5,0,4,0,20,2,SLOW,SLOW,SLOW,FOS.,NON,NOT,DIG.,OTH.,MOB.,-
+Glires (rodents + lagomorphs),Thomomys,bottae / umbrinus,0.364,57,7,26,7,12,7,10,9,5,0,2,2,56,1,SLOW,SLOW,SLOW,FOS.,NON,NOT,DIG.,OTH.,MOB.,-
+Glires (rodents + lagomorphs),Dipodomys,ordii / merriami / heermanni,0.417,32,7,26,7,12,7,11,8,4,0,0,0,27,0,SLOW,INT.,-,TER.,UPR.,NOT,BIP.,RUN.,MOB.,-
+Glires (rodents + lagomorphs),Castor,canadensis / fiber,0.200,47,5,26,7,14,5,11,8,4,0,1,0,47,3,SLOW,SLOW,SLOW,TER.,NON,NOT,SWIM.,AMBL.,STAB.,-
+Glires (rodents + lagomorphs),Microtus,pennsylvanicus / californicus / chrotorrhinus,0.167,12,1,26,7,13,6,10,9,3,0,0,0,12,0,SLOW,SLOW,SLOW,ARB.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Glires (rodents + lagomorphs),Onychomys,leucogaster,0.210,71,7,26,7,13,6,-,-,3,0,0,2,-,-,SLOW,SLOW,SLOW,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Glires (rodents + lagomorphs),Peromyscus,leucopus,0,12,0,26,7,13,6,10,9,4,0,0,0,12,0,SLOW,SLOW,SLOW,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Glires (rodents + lagomorphs),Rattus,norvegicus / rattus,0.071,56,2,26,7,13,6,10,9,4,0,0,0,55,0,SLOW,SLOW,SLOW,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Glires (rodents + lagomorphs),Mastomys,coucha,0,10,0,26,7,13,6,10,9,3,0,0,0,10,0,-,-,-,TER.,NON,NOT,QUA.,RUN.,MOB.,MOB.
+Glires (rodents + lagomorphs),Jaculus,jaculus / orientalis,0.132,44,3,26,7,12,7,10,9,4,0,0,0,42,0,FAST,FAST,-,TER.,UPR.,NOT,BIP.,RUN.,MOB.,-
+Glires (rodents + lagomorphs),Pedetes,capensis / surdaster,0.295,13,2,26,7,12,7,10,9,3,0,0,0,13,0,FAST,INT.,-,TER.,UPR.,NOT,BIP.,RUN.,MOB.,-
+Glires (rodents + lagomorphs),Anomalurus,derbianus / pelii,0.550,22,8,32,7,15,10,12,13,4,0,0,0,22,0,-,-,-,ARB.,NON,NOT,QUA.,CLIM.,MOB.,-
+,1MHI=Morphological heterogeneity index,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2N atypical CTL=number of individuals with an atypical number of presacral vertebrae,,,,,,,,,,,,,,,,,,,,,,,,,,
+,3CTL mode=modal number of presacral vertebrae,,,,,,,,,,,,,,,,,,,,,,,,,,
+,4Trans-T mode=modal number of pre-transitional thoracolumbar vertebrae + 1 (transitional vertebra),,,,,,,,,,,,,,,,,,,,,,,,,,
+,5Trans-L mode=modal number of post-transitional thoracolumbar vertebrae,,,,,,,,,,,,,,,,,,,,,,,,,,
+,6N int. C/T=number of individuals with intermediate (half and half) cervical/thoracic vertebare,,,,,,,,,,,,,,,,,,,,,,,,,,
+,7N int. T/L=number of individuals with intermediate (half and half) thoracic/lumbar vertebrae,,,,,,,,,,,,,,,,,,,,,,,,,,
+,8N int. L/S=number of individuals with intermediate (half and half) lumbar/sacral vertebrae,,,,,,,,,,,,,,,,,,,,,,,,,,
+,9TransN=number of individuals per taxon with transitional vertebra data,,,,,,,,,,,,,,,,,,,,,,,,,,
+,10N int. trans-T/L=number of individuals with an intermediate transitional vertebra level,,,,,,,,,,,,,,,,,,,,,,,,,,
+,11INT=Intermediate speed,,,,,,,,,,,,,,,,,,,,,,,,,,
+,12ARB.=arboreal; TER.=terrestrial; AQU.=aquatic; FOS.=fossorial,,,,,,,,,,,,,,,,,,,,,,,,,,
+,13UPR.=upright; NON=non-upright,,,,,,,,,,,,,,,,,,,,,,,,,,
+,14QUA.=quadrupedal; DIG.=digging; BIP.=bipedal; SWIM.=swimming; SUSP.=suspensory,,,,,,,,,,,,,,,,,,,,,,,,,,
+,15ANTI.=antipronograde; NOT=not antipronograde,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"16AMBL.=ambling; RUN.=running; CLIM.=quadrumanuous slow climbing, cantelevering, and suspensory behavior; OTH.=other limb use category (digging, swimming, etc.)",,,,,,,,,,,,,,,,,,,,,,,,,,
+,17MOB.=dorsomobile; STAB.=dorsostable,,,,,,,,,,,,,,,,,,,,,,,,,,
+,18DS QUAD.=dorsostable quadrupedal locomotion; DS CLIMB=dorsostable slow climbing/suspension,,,,,,,,,,,,,,,,,,,,,,,,,,

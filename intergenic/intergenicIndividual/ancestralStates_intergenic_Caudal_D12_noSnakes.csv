@@ -1,0 +1,112 @@
+Common Name,Species,Class,Caudal,D12,node,Mammalia,Reptilia,Aves
+Western European Hedgehog,Erinaceus europaeus,Mammalia,12.5,4987.0,0,1,0,0
+Cat,Felis catus,Mammalia,22.0,3926.0,0,1,0,0
+Lion,Panthera leo,Mammalia,23.0,4730.0,0,1,0,0
+Leopard,Panthera pardus,Mammalia,23.0,2448.0,0,1,0,0
+Fox,Vulpes vulpes,Mammalia,22.0,7970.0,0,1,0,0
+Ermine,Mustela erminea,Mammalia,18.0,3618.0,0,1,0,0
+Horse,Equus caballus,Mammalia,17.0,2138.0,0,1,0,0
+Alpaca,Vicugna pacos,Mammalia,12.0,7976.0,0,1,0,0
+Orca,Orcinus orca,Mammalia,24.0,3935.0,0,1,0,0
+North Pacific Minke Whale,Balaenoptera acutorostrata scammoni,Mammalia,19.3,7554.0,0,1,0,0
+Cattle,Bos taurus,Mammalia,21.0,7970.0,0,1,0,0
+Wild Boar,Sus scrofa,Mammalia,21.5,2997.0,0,1,0,0
+Rabbit,Oryctolagus cuniculus,Mammalia,10.0,3781.0,0,1,0,0
+House Mouse,Mus musculus,Mammalia,30.0,3410.0,0,1,0,0
+Guinea Pig,Cavia porcellus,Mammalia,5.5,12581.0,0,1,0,0
+Common Marmoset,Callithrix jacchus,Mammalia,19.0,9740.0,0,1,0,0
+Human,Homo sapiens,Mammalia,4.0,3851.0,0,1,0,0
+Chimpanzee,Pan troglodytes,Mammalia,2.0,3806.0,0,1,0,0
+Rhesus Monkey,Macaca mulatta,Mammalia,15.0,3602.0,0,1,0,0
+Pig-Tailed Macaque,Macaca nemestrina,Mammalia,17.0,10508.0,0,1,0,0
+African Bush Elephant,Loxodonta africana,Mammalia,20.0,9146.0,0,1,0,0
+Linne'S Two-Toed Sloth,Choloepus didactylus,Mammalia,4.0,4987.0,0,1,0,0
+Short-Beaked Echidna,Tachyglossus aculeatus,Mammalia,12.0,8812.0,0,1,0,0
+Platypus,Ornithorhynchus anatinus,Mammalia,20.0,6419.0,0,1,0,0
+Chicken,Gallus gallus,Aves,6.0,8234.0,0,0,0,1
+Common Pheasant,Phasianus colchicus,Aves,6.0,7800.0,0,0,0,1
+Black Swan,Cygnus atratus,Aves,8.0,8242.0,0,0,0,1
+Mute Swan,Cygnus olor,Aves,9.0,8383.0,0,0,0,1
+Swan Goose,Anser cygnoides,Aves,6.0,8465.0,0,0,0,1
+Mallard,Anas platyrhynchos,Aves,6.5,2786.0,0,0,0,1
+White Or Black-Backed Wagtail,Motacilla alba alba,Aves,6.0,5418.0,0,0,0,1
+Barn Swallow,Hirundo rustica,Aves,6.0,-5807.0,0,0,0,1
+Kakapo,Strigops habroptila,Aves,7.0,9351.0,0,0,0,1
+Emperor Penguin,Aptenodytes forsteri,Aves,8.0,6545.0,0,0,0,1
+American Alligator,Alligator mississippiensis,Reptilia,39.0,14730.0,0,0,1,0
+Chinese Soft-Shelled Turtle,Pelodiscus sinensis,Reptilia,13.0,9147.0,0,0,1,0
+Green Sea Turtle,Chelonia mydas,Reptilia,19.0,4879.0,0,0,1,0
+Golden Pheasant,Chrysolophus pictus,Aves,5.0,7415.0,0,0,0,1
+Bar-Headed Goose,Anser indicus,Aves,5.0,6314.0,0,0,0,1
+Eastern Spot-Billed Duck,Anas zonorhyncha,Aves,6.0,7545.0,0,0,0,1
+Steller'S Sea Eagle,Haliaeetus pelagicus,Aves,8.0,6950.0,0,0,0,1
+Oriental Scops Owl,Otus sunia,Aves,6.0,5594.0,0,0,0,1
+European Golden-Plover,Pluvialis apricaria,Aves,8.0,9331.0,0,0,0,1
+Eurasian Woodcock,Scolopax rusticola,Aves,7.5,7946.0,0,0,0,1
+Common Snipe,Gallinago gallinago,Aves,6.5,9363.0,0,0,0,1
+Atlantic Puffin,Fratercula arctica,Aves,7.5,9261.0,0,0,0,1
+Common Tern,Sterna hirundo,Aves,8.0,9249.0,0,0,0,1
+Razorbill,Alca torda,Aves,8.0,9285.0,0,0,0,1
+Eurasian Coot,Fulica atra,Aves,6.5,8302.0,0,0,0,1
+Royal Penguin,Eudyptes schlegeli,Aves,6.0,10391.0,0,0,0,1
+White Stork,Ciconia ciconia,Aves,6.0,5418.0,0,0,0,1
+West African Mud Turtle,Pelusios castaneus,Reptilia,15.0,4969.0,0,0,1,0
+Snapping Turtle,Chelydra serpentina,Reptilia,36.0,4877.0,0,0,1,0
+Regal Horned Lizard,Sphenodon punctatus,Reptilia,30.0,9213.0,0,0,1,0
+Desert Horned Lizard,Phrynosoma platyrhinos,Reptilia,13.0,-203.0,0,0,1,0
+Chinese Crocodile Lizard,Shinisaurus crocodilurus,Reptilia,43.0,13144.0,0,0,1,0
+Fox+Ermine,Vulpes vulpes+Mustela erminea,Mammalia+Mammalia,20.000000000000004,5794.0,63,2,0,0
+Lion+Leopard,Panthera leo+Panthera pardus,Mammalia+Mammalia,23.0,3588.9999999999995,49,2,0,0
+Cat+Lion+Leopard,Felis catus+Panthera leo+Panthera pardus,Mammalia+Mammalia+Mammalia,22.533115012914855,3746.340240647694,60,3,0,0
+Fox+Ermine+Cat+Lion+Leopard,Vulpes vulpes+Mustela erminea+Felis catus+Panthera leo+Panthera pardus,Mammalia+Mammalia+Mammalia+Mammalia+Mammalia,21.015808340899802,4972.86481574263,47,5,0,0
+Fox+Ermine+Cat+Lion+Leopard+Horse,Vulpes vulpes+Mustela erminea+Felis catus+Panthera leo+Panthera pardus+Equus caballus,Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia,19.643568360947057,4004.1644924966827,68,6,0,0
+North Pacific Minke Whale+Orca,Balaenoptera acutorostrata scammoni+Orcinus orca,Mammalia+Mammalia,21.650000000000002,5744.499999999999,87,2,0,0
+North Pacific Minke Whale+Orca+Cattle,Balaenoptera acutorostrata scammoni+Orcinus orca+Bos taurus,Mammalia+Mammalia+Mammalia,21.381815894720315,6662.721117384535,80,3,0,0
+North Pacific Minke Whale+Orca+Cattle+Wild Boar,Balaenoptera acutorostrata scammoni+Orcinus orca+Bos taurus+Sus scrofa,Mammalia+Mammalia+Mammalia+Mammalia,21.41855566622857,5523.162155991337,79,4,0,0
+North Pacific Minke Whale+Orca+Cattle+Wild Boar+Alpaca,Balaenoptera acutorostrata scammoni+Orcinus orca+Bos taurus+Sus scrofa+Vicugna pacos,Mammalia+Mammalia+Mammalia+Mammalia+Mammalia,19.059864679747985,6137.4268818140345,94,5,0,0
+Fox+Ermine+Cat+Lion+Leopard+Horse+North Pacific Minke Whale+Orca+Cattle+Wild Boar+Alpaca,Vulpes vulpes+Mustela erminea+Felis catus+Panthera leo+Panthera pardus+Equus caballus+Balaenoptera acutorostrata scammoni+Orcinus orca+Bos taurus+Sus scrofa+Vicugna pacos,Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia,19.356508978283102,5053.280686658254,92,11,0,0
+Western European Hedgehog+Fox+Ermine+Cat+Lion+Leopard+Horse+North Pacific Minke Whale+Orca+Cattle+Wild Boar+Alpaca,Erinaceus europaeus+Vulpes vulpes+Mustela erminea+Felis catus+Panthera leo+Panthera pardus+Equus caballus+Balaenoptera acutorostrata scammoni+Orcinus orca+Bos taurus+Sus scrofa+Vicugna pacos,Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia,17.860684126511917,5038.820806475803,98,12,0,0
+Guinea Pig+House Mouse,Cavia porcellus+Mus musculus,Mammalia+Mammalia,17.821644384016917,7968.681606293095,77,2,0,0
+Rabbit+Guinea Pig+House Mouse,Oryctolagus cuniculus+Cavia porcellus+Mus musculus,Mammalia+Mammalia+Mammalia,15.030739625546834,6474.440760232181,71,3,0,0
+Rhesus Monkey+Pig-Tailed Macaque,Macaca mulatta+Macaca nemestrina,Mammalia+Mammalia,15.827089592722418,6457.940363670506,46,2,0,0
+Human+Chimpanzee,Homo sapiens+Pan troglodytes,Mammalia+Mammalia,3.03458095817048,3829.2780715588356,67,2,0,0
+Rhesus Monkey+Pig-Tailed Macaque+Human+Chimpanzee,Macaca mulatta+Macaca nemestrina+Homo sapiens+Pan troglodytes,Mammalia+Mammalia+Mammalia+Mammalia,9.284569185616926,5113.553802689172,32,4,0,0
+Common Marmoset+Rhesus Monkey+Pig-Tailed Macaque+Human+Chimpanzee,Callithrix jacchus+Macaca mulatta+Macaca nemestrina+Homo sapiens+Pan troglodytes,Mammalia+Mammalia+Mammalia+Mammalia+Mammalia,13.026365567206108,6895.381080496197,106,5,0,0
+Rabbit+Guinea Pig+House Mouse+Common Marmoset+Rhesus Monkey+Pig-Tailed Macaque+Human+Chimpanzee,Oryctolagus cuniculus+Cavia porcellus+Mus musculus+Callithrix jacchus+Macaca mulatta+Macaca nemestrina+Homo sapiens+Pan troglodytes,Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia,14.280206798603656,6632.060804867787,103,8,0,0
+Western European Hedgehog+Fox+Ermine+Cat+Lion+Leopard+Horse+North Pacific Minke Whale+Orca+Cattle+Wild Boar+Alpaca+Rabbit+Guinea Pig+House Mouse+Common Marmoset+Rhesus Monkey+Pig-Tailed Macaque+Human+Chimpanzee,Erinaceus europaeus+Vulpes vulpes+Mustela erminea+Felis catus+Panthera leo+Panthera pardus+Equus caballus+Balaenoptera acutorostrata scammoni+Orcinus orca+Bos taurus+Sus scrofa+Vicugna pacos+Oryctolagus cuniculus+Cavia porcellus+Mus musculus+Callithrix jacchus+Macaca mulatta+Macaca nemestrina+Homo sapiens+Pan troglodytes,Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia,16.16758935800223,5792.213736863035,31,20,0,0
+African Bush Elephant+Linne'S Two-Toed Sloth,Loxodonta africana+Choloepus didactylus,Mammalia+Mammalia,12.000000000000002,7066.5,30,2,0,0
+Western European Hedgehog+Fox+Ermine+Cat+Lion+Leopard+Horse+North Pacific Minke Whale+Orca+Cattle+Wild Boar+Alpaca+Rabbit+Guinea Pig+House Mouse+Common Marmoset+Rhesus Monkey+Pig-Tailed Macaque+Human+Chimpanzee+African Bush Elephant+Linne'S Two-Toed Sloth,Erinaceus europaeus+Vulpes vulpes+Mustela erminea+Felis catus+Panthera leo+Panthera pardus+Equus caballus+Balaenoptera acutorostrata scammoni+Orcinus orca+Bos taurus+Sus scrofa+Vicugna pacos+Oryctolagus cuniculus+Cavia porcellus+Mus musculus+Callithrix jacchus+Macaca mulatta+Macaca nemestrina+Homo sapiens+Pan troglodytes+Loxodonta africana+Choloepus didactylus,Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia,15.025274600909379,6141.489032027872,111,22,0,0
+Short-Beaked Echidna+Platypus,Tachyglossus aculeatus+Ornithorhynchus anatinus,Mammalia+Mammalia,16.0,7615.5,29,2,0,0
+Western European Hedgehog+Fox+Ermine+Cat+Lion+Leopard+Horse+North Pacific Minke Whale+Orca+Cattle+Wild Boar+Alpaca+Rabbit+Guinea Pig+House Mouse+Common Marmoset+Rhesus Monkey+Pig-Tailed Macaque+Human+Chimpanzee+African Bush Elephant+Linne'S Two-Toed Sloth+Short-Beaked Echidna+Platypus,Erinaceus europaeus+Vulpes vulpes+Mustela erminea+Felis catus+Panthera leo+Panthera pardus+Equus caballus+Balaenoptera acutorostrata scammoni+Orcinus orca+Bos taurus+Sus scrofa+Vicugna pacos+Oryctolagus cuniculus+Cavia porcellus+Mus musculus+Callithrix jacchus+Macaca mulatta+Macaca nemestrina+Homo sapiens+Pan troglodytes+Loxodonta africana+Choloepus didactylus+Tachyglossus aculeatus+Ornithorhynchus anatinus,Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia,15.39267281921966,6697.080385149497,28,24,0,0
+Golden Pheasant+Common Pheasant,Chrysolophus pictus+Phasianus colchicus,Aves+Aves,5.5,7607.5,220,0,0,2
+Chicken+Golden Pheasant+Common Pheasant,Gallus gallus+Chrysolophus pictus+Phasianus colchicus,Aves+Aves+Aves,5.724036974761189,7888.21832937577,218,0,0,3
+Black Swan+Mute Swan,Cygnus atratus+Cygnus olor,Aves+Aves,8.5,8312.5,212,0,0,2
+Bar-Headed Goose+Swan Goose,Anser indicus+Anser cygnoides,Aves+Aves,5.5,7389.5,213,0,0,2
+Black Swan+Mute Swan+Bar-Headed Goose+Swan Goose,Cygnus atratus+Cygnus olor+Anser indicus+Anser cygnoides,Aves+Aves+Aves+Aves,6.9195843069198135,7826.258771762329,211,0,0,4
+Eastern Spot-Billed Duck+Mallard,Anas zonorhyncha+Anas platyrhynchos,Aves+Aves,6.25,5165.5,206,0,0,2
+Black Swan+Mute Swan+Bar-Headed Goose+Swan Goose+Eastern Spot-Billed Duck+Mallard,Cygnus atratus+Cygnus olor+Anser indicus+Anser cygnoides+Anas zonorhyncha+Anas platyrhynchos,Aves+Aves+Aves+Aves+Aves+Aves,6.615136448368481,6616.459943126216,205,0,0,6
+Chicken+Golden Pheasant+Common Pheasant+Black Swan+Mute Swan+Bar-Headed Goose+Swan Goose+Eastern Spot-Billed Duck+Mallard,Gallus gallus+Chrysolophus pictus+Phasianus colchicus+Cygnus atratus+Cygnus olor+Anser indicus+Anser cygnoides+Anas zonorhyncha+Anas platyrhynchos,Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves,6.176035175165124,7243.136024920565,204,0,0,9
+Steller'S Sea Eagle+Oriental Scops Owl,Haliaeetus pelagicus+Otus sunia,Aves+Aves,7.0,6272.0,182,0,0,2
+Barn Swallow+White Or Black-Backed Wagtail,Hirundo rustica+Motacilla alba alba,Aves+Aves,5.999999999999999,-194.50000000000037,150,0,0,2
+Barn Swallow+White Or Black-Backed Wagtail+Kakapo,Hirundo rustica+Motacilla alba alba+Strigops habroptila,Aves+Aves+Aves,6.4465925791861265,4068.4494646211747,20,0,0,3
+Steller'S Sea Eagle+Oriental Scops Owl+Barn Swallow+White Or Black-Backed Wagtail+Kakapo,Haliaeetus pelagicus+Otus sunia+Hirundo rustica+Motacilla alba alba+Strigops habroptila,Aves+Aves+Aves+Aves+Aves,6.717922235211986,5148.82639184171,187,0,0,5
+Common Tern+Razorbill,Sterna hirundo+Alca torda,Aves+Aves,8.0,9267.0,21,0,0,2
+Atlantic Puffin+Common Tern+Razorbill,Fratercula arctica+Sterna hirundo+Alca torda,Aves+Aves+Aves,7.811202785101748,9264.734433421221,156,0,0,3
+Eurasian Woodcock+Common Snipe,Scolopax rusticola+Gallinago gallinago,Aves+Aves,7.000000000000001,8654.499999999998,154,0,0,2
+Atlantic Puffin+Common Tern+Razorbill+Eurasian Woodcock+Common Snipe,Fratercula arctica+Sterna hirundo+Alca torda+Scolopax rusticola+Gallinago gallinago,Aves+Aves+Aves+Aves+Aves,7.473287727494531,9010.534857790355,161,0,0,5
+European Golden-Plover+Atlantic Puffin+Common Tern+Razorbill+Eurasian Woodcock+Common Snipe,Pluvialis apricaria+Fratercula arctica+Sterna hirundo+Alca torda+Scolopax rusticola+Gallinago gallinago,Aves+Aves+Aves+Aves+Aves+Aves,7.601347531748572,9088.449699581295,153,0,0,6
+Royal Penguin+Emperor Penguin,Eudyptes schlegeli+Aptenodytes forsteri,Aves+Aves,7.0,8468.0,146,0,0,2
+Royal Penguin+Emperor Penguin+White Stork,Eudyptes schlegeli+Aptenodytes forsteri+Ciconia ciconia,Aves+Aves+Aves,6.540698161711717,7067.1293932207345,144,0,0,3
+Eurasian Coot+Royal Penguin+Emperor Penguin+White Stork,Fulica atra+Eudyptes schlegeli+Aptenodytes forsteri+Ciconia ciconia,Aves+Aves+Aves+Aves,6.5275783206364295,7465.213862594287,143,0,0,4
+European Golden-Plover+Atlantic Puffin+Common Tern+Razorbill+Eurasian Woodcock+Common Snipe+Eurasian Coot+Royal Penguin+Emperor Penguin+White Stork,Pluvialis apricaria+Fratercula arctica+Sterna hirundo+Alca torda+Scolopax rusticola+Gallinago gallinago+Fulica atra+Eudyptes schlegeli+Aptenodytes forsteri+Ciconia ciconia,Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves,7.13916125630176,8389.754562949685,170,0,0,10
+Steller'S Sea Eagle+Oriental Scops Owl+Barn Swallow+White Or Black-Backed Wagtail+Kakapo+European Golden-Plover+Atlantic Puffin+Common Tern+Razorbill+Eurasian Woodcock+Common Snipe+Eurasian Coot+Royal Penguin+Emperor Penguin+White Stork,Haliaeetus pelagicus+Otus sunia+Hirundo rustica+Motacilla alba alba+Strigops habroptila+Pluvialis apricaria+Fratercula arctica+Sterna hirundo+Alca torda+Scolopax rusticola+Gallinago gallinago+Fulica atra+Eudyptes schlegeli+Aptenodytes forsteri+Ciconia ciconia,Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves,6.9769870113235815,7142.0185915332795,19,0,0,15
+Chicken+Golden Pheasant+Common Pheasant+Black Swan+Mute Swan+Bar-Headed Goose+Swan Goose+Eastern Spot-Billed Duck+Mallard+Steller'S Sea Eagle+Oriental Scops Owl+Barn Swallow+White Or Black-Backed Wagtail+Kakapo+European Golden-Plover+Atlantic Puffin+Common Tern+Razorbill+Eurasian Woodcock+Common Snipe+Eurasian Coot+Royal Penguin+Emperor Penguin+White Stork,Gallus gallus+Chrysolophus pictus+Phasianus colchicus+Cygnus atratus+Cygnus olor+Anser indicus+Anser cygnoides+Anas zonorhyncha+Anas platyrhynchos+Haliaeetus pelagicus+Otus sunia+Hirundo rustica+Motacilla alba alba+Strigops habroptila+Pluvialis apricaria+Fratercula arctica+Sterna hirundo+Alca torda+Scolopax rusticola+Gallinago gallinago+Fulica atra+Eudyptes schlegeli+Aptenodytes forsteri+Ciconia ciconia,Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves,6.669418905627068,7180.8480142723365,225,0,0,24
+Chicken+Golden Pheasant+Common Pheasant+Black Swan+Mute Swan+Bar-Headed Goose+Swan Goose+Eastern Spot-Billed Duck+Mallard+Steller'S Sea Eagle+Oriental Scops Owl+Barn Swallow+White Or Black-Backed Wagtail+Kakapo+European Golden-Plover+Atlantic Puffin+Common Tern+Razorbill+Eurasian Woodcock+Common Snipe+Eurasian Coot+Royal Penguin+Emperor Penguin+White Stork+American Alligator,Gallus gallus+Chrysolophus pictus+Phasianus colchicus+Cygnus atratus+Cygnus olor+Anser indicus+Anser cygnoides+Anas zonorhyncha+Anas platyrhynchos+Haliaeetus pelagicus+Otus sunia+Hirundo rustica+Motacilla alba alba+Strigops habroptila+Pluvialis apricaria+Fratercula arctica+Sterna hirundo+Alca torda+Scolopax rusticola+Gallinago gallinago+Fulica atra+Eudyptes schlegeli+Aptenodytes forsteri+Ciconia ciconia+Alligator mississippiensis,Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Reptilia,19.866484423635203,10262.34701579783,228,0,1,24
+Green Sea Turtle+Snapping Turtle,Chelonia mydas+Chelydra serpentina,Reptilia+Reptilia,27.5,4878.000000000001,224,0,2,0
+Chinese Soft-Shelled Turtle+Green Sea Turtle+Snapping Turtle,Pelodiscus sinensis+Chelonia mydas+Chelydra serpentina,Reptilia+Reptilia+Reptilia,21.589434880007627,6618.151896361893,234,0,3,0
+West African Mud Turtle+Chinese Soft-Shelled Turtle+Green Sea Turtle+Snapping Turtle,Pelusios castaneus+Pelodiscus sinensis+Chelonia mydas+Chelydra serpentina,Reptilia+Reptilia+Reptilia+Reptilia,19.441407022110123,6080.560391202995,233,0,4,0
+Chicken+Golden Pheasant+Common Pheasant+Black Swan+Mute Swan+Bar-Headed Goose+Swan Goose+Eastern Spot-Billed Duck+Mallard+Steller'S Sea Eagle+Oriental Scops Owl+Barn Swallow+White Or Black-Backed Wagtail+Kakapo+European Golden-Plover+Atlantic Puffin+Common Tern+Razorbill+Eurasian Woodcock+Common Snipe+Eurasian Coot+Royal Penguin+Emperor Penguin+White Stork+American Alligator+West African Mud Turtle+Chinese Soft-Shelled Turtle+Green Sea Turtle+Snapping Turtle,Gallus gallus+Chrysolophus pictus+Phasianus colchicus+Cygnus atratus+Cygnus olor+Anser indicus+Anser cygnoides+Anas zonorhyncha+Anas platyrhynchos+Haliaeetus pelagicus+Otus sunia+Hirundo rustica+Motacilla alba alba+Strigops habroptila+Pluvialis apricaria+Fratercula arctica+Sterna hirundo+Alca torda+Scolopax rusticola+Gallinago gallinago+Fulica atra+Eudyptes schlegeli+Aptenodytes forsteri+Ciconia ciconia+Alligator mississippiensis+Pelusios castaneus+Pelodiscus sinensis+Chelonia mydas+Chelydra serpentina,Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Reptilia+Reptilia+Reptilia+Reptilia+Reptilia,19.662299021986886,8253.631006696902,223,0,5,24
+Desert Horned Lizard+Chinese Crocodile Lizard,Phrynosoma platyrhinos+Shinisaurus crocodilurus,Reptilia+Reptilia,27.999999999999996,6470.5,128,0,2,0
+Regal Horned Lizard+Desert Horned Lizard+Chinese Crocodile Lizard,Sphenodon punctatus+Phrynosoma platyrhinos+Shinisaurus crocodilurus,Reptilia+Reptilia+Reptilia,28.807974191112898,7578.434609563559,133,0,3,0
+Chicken+Golden Pheasant+Common Pheasant+Black Swan+Mute Swan+Bar-Headed Goose+Swan Goose+Eastern Spot-Billed Duck+Mallard+Steller'S Sea Eagle+Oriental Scops Owl+Barn Swallow+White Or Black-Backed Wagtail+Kakapo+European Golden-Plover+Atlantic Puffin+Common Tern+Razorbill+Eurasian Woodcock+Common Snipe+Eurasian Coot+Royal Penguin+Emperor Penguin+White Stork+American Alligator+West African Mud Turtle+Chinese Soft-Shelled Turtle+Green Sea Turtle+Snapping Turtle+Regal Horned Lizard+Desert Horned Lizard+Chinese Crocodile Lizard,Gallus gallus+Chrysolophus pictus+Phasianus colchicus+Cygnus atratus+Cygnus olor+Anser indicus+Anser cygnoides+Anas zonorhyncha+Anas platyrhynchos+Haliaeetus pelagicus+Otus sunia+Hirundo rustica+Motacilla alba alba+Strigops habroptila+Pluvialis apricaria+Fratercula arctica+Sterna hirundo+Alca torda+Scolopax rusticola+Gallinago gallinago+Fulica atra+Eudyptes schlegeli+Aptenodytes forsteri+Ciconia ciconia+Alligator mississippiensis+Pelusios castaneus+Pelodiscus sinensis+Chelonia mydas+Chelydra serpentina+Sphenodon punctatus+Phrynosoma platyrhinos+Shinisaurus crocodilurus,Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Reptilia+Reptilia+Reptilia+Reptilia+Reptilia+Reptilia+Reptilia+Reptilia,23.047269048720317,8003.729329216574,203,0,8,24
+Western European Hedgehog+Fox+Ermine+Cat+Lion+Leopard+Horse+North Pacific Minke Whale+Orca+Cattle+Wild Boar+Alpaca+Rabbit+Guinea Pig+House Mouse+Common Marmoset+Rhesus Monkey+Pig-Tailed Macaque+Human+Chimpanzee+African Bush Elephant+Linne'S Two-Toed Sloth+Short-Beaked Echidna+Platypus+Chicken+Golden Pheasant+Common Pheasant+Black Swan+Mute Swan+Bar-Headed Goose+Swan Goose+Eastern Spot-Billed Duck+Mallard+Steller'S Sea Eagle+Oriental Scops Owl+Barn Swallow+White Or Black-Backed Wagtail+Kakapo+European Golden-Plover+Atlantic Puffin+Common Tern+Razorbill+Eurasian Woodcock+Common Snipe+Eurasian Coot+Royal Penguin+Emperor Penguin+White Stork+American Alligator+West African Mud Turtle+Chinese Soft-Shelled Turtle+Green Sea Turtle+Snapping Turtle+Regal Horned Lizard+Desert Horned Lizard+Chinese Crocodile Lizard,Erinaceus europaeus+Vulpes vulpes+Mustela erminea+Felis catus+Panthera leo+Panthera pardus+Equus caballus+Balaenoptera acutorostrata scammoni+Orcinus orca+Bos taurus+Sus scrofa+Vicugna pacos+Oryctolagus cuniculus+Cavia porcellus+Mus musculus+Callithrix jacchus+Macaca mulatta+Macaca nemestrina+Homo sapiens+Pan troglodytes+Loxodonta africana+Choloepus didactylus+Tachyglossus aculeatus+Ornithorhynchus anatinus+Gallus gallus+Chrysolophus pictus+Phasianus colchicus+Cygnus atratus+Cygnus olor+Anser indicus+Anser cygnoides+Anas zonorhyncha+Anas platyrhynchos+Haliaeetus pelagicus+Otus sunia+Hirundo rustica+Motacilla alba alba+Strigops habroptila+Pluvialis apricaria+Fratercula arctica+Sterna hirundo+Alca torda+Scolopax rusticola+Gallinago gallinago+Fulica atra+Eudyptes schlegeli+Aptenodytes forsteri+Ciconia ciconia+Alligator mississippiensis+Pelusios castaneus+Pelodiscus sinensis+Chelonia mydas+Chelydra serpentina+Sphenodon punctatus+Phrynosoma platyrhinos+Shinisaurus crocodilurus,Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Mammalia+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Aves+Reptilia+Reptilia+Reptilia+Reptilia+Reptilia+Reptilia+Reptilia+Reptilia,20.675215400753014,7598.816868590401,root,24,8,24

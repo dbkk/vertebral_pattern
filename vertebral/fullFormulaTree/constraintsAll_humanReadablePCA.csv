@@ -1,0 +1,3 @@
+Cervical,Thoracic,Lumbar,Sacral,Caudal,constraint_std,globalOrLocal
+0.0,1.0,0.0,0.0,-1.0,0.07711699698182164,local
+1.0,0.0,0.0,-1.0,0.0,0.016496793478719712,local
